@@ -1,0 +1,2082 @@
+{
+  "apple": {
+    "index": 15731,
+    "candidates": [
+      {
+        "index": 15731,
+        "description": "apple",
+        "cosine": 0.9999991964390481,
+        "max_act": 1.75
+      },
+      {
+        "index": 109160,
+        "description": "apple",
+        "cosine": 0.9999991964390481,
+        "max_act": 1.4140625
+      },
+      {
+        "index": 31550,
+        "description": "apple",
+        "cosine": 0.9999991368046205,
+        "max_act": 1.3876953125
+      },
+      {
+        "index": 2565,
+        "description": "apple",
+        "cosine": 0.9999991964390481,
+        "max_act": 1.248046875
+      },
+      {
+        "index": 80979,
+        "description": "apple",
+        "cosine": 0.9999991368046205,
+        "max_act": 0.81591796875
+      },
+      {
+        "index": 43320,
+        "description": ".apple",
+        "cosine": 0.9297917410295242,
+        "max_act": 1.6083984375
+      },
+      {
+        "index": 64051,
+        "description": "Apple",
+        "cosine": 0.8808132613657513,
+        "max_act": 1.65234375
+      },
+      {
+        "index": 111466,
+        "description": "Apple",
+        "cosine": 0.880744016862808,
+        "max_act": 1.8662109375
+      },
+      {
+        "index": 32912,
+        "description": "APPLE",
+        "cosine": 0.8557897338171567,
+        "max_act": 1.2001953125
+      },
+      {
+        "index": 63440,
+        "description": "apples",
+        "cosine": 0.7075512442535469,
+        "max_act": 1.1884765625
+      }
+    ]
+  },
+  "astronomy": {
+    "index": 115514,
+    "candidates": [
+      {
+        "index": 115514,
+        "description": "astronomy",
+        "cosine": 0.9999993197516607,
+        "max_act": 1.1875
+      },
+      {
+        "index": 60003,
+        "description": "astronomy",
+        "cosine": 0.999183683025154,
+        "max_act": 1.474609375
+      },
+      {
+        "index": 17882,
+        "description": "Astronomy",
+        "cosine": 0.8756391101433507,
+        "max_act": 1.7783203125
+      },
+      {
+        "index": 28456,
+        "description": "Astronomy",
+        "cosine": 0.8756380521814694,
+        "max_act": 1.6923828125
+      },
+      {
+        "index": 50287,
+        "description": "astrology",
+        "cosine": 0.7007649397821568,
+        "max_act": 1.3828125
+      },
+      {
+        "index": 29306,
+        "description": "astrology",
+        "cosine": 0.7006717275622478,
+        "max_act": 0.91796875
+      },
+      {
+        "index": 52213,
+        "description": "astrology",
+        "cosine": 0.7006073193082322,
+        "max_act": 1.9208984375
+      },
+      {
+        "index": 73764,
+        "description": "astrology",
+        "cosine": 0.7006073193082322,
+        "max_act": 1.31640625
+      },
+      {
+        "index": 77182,
+        "description": "astrophysics",
+        "cosine": 0.6818923855822726,
+        "max_act": 2.119140625
+      },
+      {
+        "index": 101617,
+        "description": "astrophysics",
+        "cosine": 0.6818923855822726,
+        "max_act": 1.0751953125
+      }
+    ]
+  },
+  "democracy": {
+    "index": 29497,
+    "candidates": [
+      {
+        "index": 29497,
+        "description": "democracy",
+        "cosine": 0.999999178537722,
+        "max_act": 1.7890625
+      },
+      {
+        "index": 84849,
+        "description": "democracy",
+        "cosine": 0.9999990593475557,
+        "max_act": 1.57421875
+      },
+      {
+        "index": 123290,
+        "description": "democratic",
+        "cosine": 0.6711370409441529,
+        "max_act": 1.255859375
+      },
+      {
+        "index": 71271,
+        "description": "monarchy",
+        "cosine": 0.6249992035094313,
+        "max_act": 1.3818359375
+      },
+      {
+        "index": 13166,
+        "description": "republic",
+        "cosine": 0.6053092860050078,
+        "max_act": 1.3505859375
+      },
+      {
+        "index": 42052,
+        "description": "republic",
+        "cosine": 0.6043596259044769,
+        "max_act": 1.6865234375
+      },
+      {
+        "index": 108535,
+        "description": "republic",
+        "cosine": 0.6043596259044769,
+        "max_act": 1.44140625
+      },
+      {
+        "index": 97663,
+        "description": "republic",
+        "cosine": 0.6043596259044769,
+        "max_act": 1.2587890625
+      },
+      {
+        "index": 22100,
+        "description": "republic",
+        "cosine": 0.6042794469499448,
+        "max_act": 1.4267578125
+      },
+      {
+        "index": 1108,
+        "description": "freedom",
+        "cosine": 0.5958610815190097,
+        "max_act": 1.9033203125
+      }
+    ]
+  },
+  "sushi": {
+    "index": 58096,
+    "candidates": [
+      {
+        "index": 58096,
+        "description": "sushi",
+        "cosine": 0.9999992966086035,
+        "max_act": 1.57421875
+      },
+      {
+        "index": 37529,
+        "description": "sushi",
+        "cosine": 0.9999992369854721,
+        "max_act": 1.2890625
+      },
+      {
+        "index": 58000,
+        "description": "sushi",
+        "cosine": 0.9999993562132046,
+        "max_act": 0.76806640625
+      },
+      {
+        "index": 47675,
+        "description": "seafood",
+        "cosine": 0.6286763871558303,
+        "max_act": 1.5517578125
+      },
+      {
+        "index": 69298,
+        "description": "seafood",
+        "cosine": 0.6287278339223669,
+        "max_act": 1.232421875
+      },
+      {
+        "index": 124305,
+        "description": "salmon",
+        "cosine": 0.6138623779924616,
+        "max_act": 1.765625
+      },
+      {
+        "index": 65911,
+        "description": "spaghetti",
+        "cosine": 0.6117849173938329,
+        "max_act": 1.9755859375
+      },
+      {
+        "index": 109723,
+        "description": "pasta",
+        "cosine": 0.6014287965563674,
+        "max_act": 1.4443359375
+      },
+      {
+        "index": 96276,
+        "description": "burrito",
+        "cosine": 0.5997269995177585,
+        "max_act": 1.41796875
+      },
+      {
+        "index": 76786,
+        "description": "pasta",
+        "cosine": 0.5957049356857302,
+        "max_act": 1.8271484375
+      }
+    ]
+  },
+  "football": {
+    "index": 80500,
+    "candidates": [
+      {
+        "index": 80500,
+        "description": "football",
+        "cosine": 0.9999990634559782,
+        "max_act": 2.185546875
+      },
+      {
+        "index": 39284,
+        "description": "football",
+        "cosine": 0.999998884664083,
+        "max_act": 1.7255859375
+      },
+      {
+        "index": 27936,
+        "description": "football",
+        "cosine": 0.999998884664083,
+        "max_act": 1.5537109375
+      },
+      {
+        "index": 2777,
+        "description": "football",
+        "cosine": 0.9999988846858998,
+        "max_act": 1.48046875
+      },
+      {
+        "index": 39653,
+        "description": "football",
+        "cosine": 0.9999987654767645,
+        "max_act": 1.474609375
+      },
+      {
+        "index": 19676,
+        "description": "football",
+        "cosine": 0.9999988846858998,
+        "max_act": 1.353515625
+      },
+      {
+        "index": 123815,
+        "description": "football",
+        "cosine": 0.999998884664083,
+        "max_act": 1.2900390625
+      },
+      {
+        "index": 60422,
+        "description": "football",
+        "cosine": 0.9999987654767645,
+        "max_act": 1.1640625
+      },
+      {
+        "index": 59844,
+        "description": "football",
+        "cosine": 0.9999987654767645,
+        "max_act": 1.02734375
+      },
+      {
+        "index": 78057,
+        "description": "football",
+        "cosine": 0.999998884664083,
+        "max_act": 1.015625
+      }
+    ]
+  },
+  "rivers": {
+    "index": 25221,
+    "candidates": [
+      {
+        "index": 25221,
+        "description": "rivers",
+        "cosine": 0.9999992527298716,
+        "max_act": 1.509765625
+      },
+      {
+        "index": 20402,
+        "description": "rivers",
+        "cosine": 0.9999992527298716,
+        "max_act": 1.2177734375
+      },
+      {
+        "index": 92447,
+        "description": "rivers",
+        "cosine": 0.9999991931252767,
+        "max_act": 1.107421875
+      },
+      {
+        "index": 54251,
+        "description": "Rivers",
+        "cosine": 0.9124234025551258,
+        "max_act": 1.533203125
+      },
+      {
+        "index": 80756,
+        "description": "river",
+        "cosine": 0.7547960730432838,
+        "max_act": 1.5703125
+      },
+      {
+        "index": 116917,
+        "description": "River",
+        "cosine": 0.7235318601019897,
+        "max_act": 1.7021484375
+      },
+      {
+        "index": 41976,
+        "description": "River",
+        "cosine": 0.723539384993894,
+        "max_act": 1.564453125
+      },
+      {
+        "index": 79345,
+        "description": "River",
+        "cosine": 0.723539384993894,
+        "max_act": 1.212890625
+      },
+      {
+        "index": 130911,
+        "description": "River",
+        "cosine": 0.7234406432187996,
+        "max_act": 1.416015625
+      },
+      {
+        "index": 210,
+        "description": "River",
+        "cosine": 0.7234406432187996,
+        "max_act": 1.1455078125
+      }
+    ]
+  },
+  "algorithms": {
+    "index": 66739,
+    "candidates": [
+      {
+        "index": 66739,
+        "description": "algorithms",
+        "cosine": 0.9999992279554164,
+        "max_act": 1.7919921875
+      },
+      {
+        "index": 72261,
+        "description": "Algorithms",
+        "cosine": 0.9129970842150912,
+        "max_act": 1.146484375
+      },
+      {
+        "index": 115440,
+        "description": "programming algorithms",
+        "cosine": 0.7753621517448169,
+        "max_act": 0.395263671875
+      },
+      {
+        "index": 103453,
+        "description": "algorithm",
+        "cosine": 0.7446551616595213,
+        "max_act": 1.9345703125
+      },
+      {
+        "index": 72167,
+        "description": "algorithm",
+        "cosine": 0.7446551616595213,
+        "max_act": 1.7294921875
+      },
+      {
+        "index": 94287,
+        "description": "algorithm",
+        "cosine": 0.7446659953031721,
+        "max_act": 1.447265625
+      },
+      {
+        "index": 96565,
+        "description": "algorithm",
+        "cosine": 0.7447373322535297,
+        "max_act": 1.203125
+      },
+      {
+        "index": 48555,
+        "description": "algorithm",
+        "cosine": 0.7447373322535297,
+        "max_act": 1.189453125
+      },
+      {
+        "index": 107077,
+        "description": "algorithm",
+        "cosine": 0.7446773806535614,
+        "max_act": 1.12109375
+      },
+      {
+        "index": 76804,
+        "description": "algorithm",
+        "cosine": 0.7446551616595213,
+        "max_act": 1.0947265625
+      }
+    ]
+  },
+  "poetry": {
+    "index": 37028,
+    "candidates": [
+      {
+        "index": 37028,
+        "description": "poetry",
+        "cosine": 0.9999991647105881,
+        "max_act": 2.134765625
+      },
+      {
+        "index": 85425,
+        "description": "poetry",
+        "cosine": 0.9999991348938377,
+        "max_act": 1.388671875
+      },
+      {
+        "index": 27955,
+        "description": "poetry",
+        "cosine": 0.9999991647250424,
+        "max_act": 0.74658203125
+      },
+      {
+        "index": 29199,
+        "description": "poetry",
+        "cosine": 0.9999991348938377,
+        "max_act": 0.7138671875
+      },
+      {
+        "index": 13151,
+        "description": "Poetry",
+        "cosine": 0.8681422216508508,
+        "max_act": 1.0244140625
+      },
+      {
+        "index": 25492,
+        "description": "poem",
+        "cosine": 0.8123741474112172,
+        "max_act": 2.240234375
+      },
+      {
+        "index": 70659,
+        "description": "poem",
+        "cosine": 0.8123740281731224,
+        "max_act": 1.01171875
+      },
+      {
+        "index": 84359,
+        "description": "literature",
+        "cosine": 0.669143142114012,
+        "max_act": 1.578125
+      },
+      {
+        "index": 5013,
+        "description": "literature",
+        "cosine": 0.669143142114012,
+        "max_act": 1.28515625
+      },
+      {
+        "index": 73019,
+        "description": "literature",
+        "cosine": 0.669143142114012,
+        "max_act": 1.16015625
+      }
+    ]
+  },
+  "economics": {
+    "index": 83387,
+    "candidates": [
+      {
+        "index": 83387,
+        "description": "economics",
+        "cosine": 0.9999990189711271,
+        "max_act": 1.53515625
+      },
+      {
+        "index": 113709,
+        "description": "economics",
+        "cosine": 0.9999990189711271,
+        "max_act": 1.38671875
+      },
+      {
+        "index": 47440,
+        "description": "economics",
+        "cosine": 0.9999990189711271,
+        "max_act": 1.287109375
+      },
+      {
+        "index": 100574,
+        "description": "economics",
+        "cosine": 0.9999990189711271,
+        "max_act": 1.056640625
+      },
+      {
+        "index": 125938,
+        "description": "Economics",
+        "cosine": 0.9041015521580489,
+        "max_act": 1.2412109375
+      },
+      {
+        "index": 41857,
+        "description": "economy",
+        "cosine": 0.8476248645605317,
+        "max_act": 1.6435546875
+      },
+      {
+        "index": 87117,
+        "description": "economy",
+        "cosine": 0.8476084087722332,
+        "max_act": 1.6025390625
+      },
+      {
+        "index": 55159,
+        "description": "economy",
+        "cosine": 0.8476248645605317,
+        "max_act": 1.4453125
+      },
+      {
+        "index": 108306,
+        "description": "economy",
+        "cosine": 0.8476305165024166,
+        "max_act": 1.3818359375
+      },
+      {
+        "index": 117585,
+        "description": "economy",
+        "cosine": 0.8476305165024166,
+        "max_act": 1.1962890625
+      }
+    ]
+  },
+  "gardening": {
+    "index": 43215,
+    "candidates": [
+      {
+        "index": 43215,
+        "description": "gardening",
+        "cosine": 0.9999991320297263,
+        "max_act": 1.2978515625
+      },
+      {
+        "index": 5165,
+        "description": "gardening",
+        "cosine": 0.9999992512118895,
+        "max_act": 1.03125
+      },
+      {
+        "index": 61921,
+        "description": "garden",
+        "cosine": 0.740179654701105,
+        "max_act": 1.412109375
+      },
+      {
+        "index": 30972,
+        "description": "gardens",
+        "cosine": 0.692050797036198,
+        "max_act": 1.130859375
+      },
+      {
+        "index": 62354,
+        "description": "planting",
+        "cosine": 0.6905196431610322,
+        "max_act": 1.7080078125
+      },
+      {
+        "index": 22889,
+        "description": "landscaping",
+        "cosine": 0.6843938195519854,
+        "max_act": 1.71484375
+      },
+      {
+        "index": 96888,
+        "description": "Garden",
+        "cosine": 0.6832613898319526,
+        "max_act": 1.4140625
+      },
+      {
+        "index": 17870,
+        "description": "gard",
+        "cosine": 0.6555773994207308,
+        "max_act": 1.365234375
+      },
+      {
+        "index": 19444,
+        "description": "gard",
+        "cosine": 0.655630891699567,
+        "max_act": 0.61767578125
+      },
+      {
+        "index": 67237,
+        "description": "flower arrangements and gardens",
+        "cosine": 0.6406678895794672,
+        "max_act": 1.771484375
+      }
+    ]
+  },
+  "malice": {
+    "index": 26328,
+    "candidates": [
+      {
+        "index": 26328,
+        "description": "malicious",
+        "cosine": 0.8024006125766756,
+        "max_act": 2.150390625
+      },
+      {
+        "index": 39032,
+        "description": "cruelty",
+        "cosine": 0.62992929161959,
+        "max_act": 1.328125
+      },
+      {
+        "index": 72866,
+        "description": "spite",
+        "cosine": 0.617839851324143,
+        "max_act": 1.2666015625
+      },
+      {
+        "index": 128642,
+        "description": "malign",
+        "cosine": 0.609575029213933,
+        "max_act": 1.6865234375
+      },
+      {
+        "index": 66452,
+        "description": "murder",
+        "cosine": 0.6003789444609686,
+        "max_act": 1.494140625
+      },
+      {
+        "index": 85542,
+        "description": "murder",
+        "cosine": 0.6003789444609686,
+        "max_act": 1.375
+      },
+      {
+        "index": 66443,
+        "description": "Evil",
+        "cosine": 0.5838528583817546,
+        "max_act": 0.87255859375
+      },
+      {
+        "index": 109507,
+        "description": "Evil",
+        "cosine": 0.5837388837298932,
+        "max_act": 0.908203125
+      },
+      {
+        "index": 83097,
+        "description": "Evil",
+        "cosine": 0.5836649422936342,
+        "max_act": 0.849609375
+      },
+      {
+        "index": 16822,
+        "description": "malignancy",
+        "cosine": 0.5680185483667939,
+        "max_act": 1.4140625
+      }
+    ]
+  },
+  "goodness": {
+    "index": 2947,
+    "candidates": [
+      {
+        "index": 2947,
+        "description": "goodness",
+        "cosine": 0.9999769379448714,
+        "max_act": 1.671875
+      },
+      {
+        "index": 54574,
+        "description": "kindness",
+        "cosine": 0.6773863530104505,
+        "max_act": 1.763671875
+      },
+      {
+        "index": 97054,
+        "description": "virtue",
+        "cosine": 0.6658629238994026,
+        "max_act": 1.9697265625
+      },
+      {
+        "index": 8034,
+        "description": "virtue",
+        "cosine": 0.6658590499036643,
+        "max_act": 1.591796875
+      },
+      {
+        "index": 50521,
+        "description": "generosity",
+        "cosine": 0.6506613466573531,
+        "max_act": 1.3212890625
+      },
+      {
+        "index": 27777,
+        "description": "value or quality",
+        "cosine": 0.646261099643233,
+        "max_act": 0.5146484375
+      },
+      {
+        "index": 89311,
+        "description": "greatness",
+        "cosine": 0.6432567475385074,
+        "max_act": 1.0400390625
+      },
+      {
+        "index": 3023,
+        "description": "greatness",
+        "cosine": 0.6432369624497545,
+        "max_act": 1.3701171875
+      },
+      {
+        "index": 42116,
+        "description": "sweetness",
+        "cosine": 0.6341972243318365,
+        "max_act": 1.6044921875
+      },
+      {
+        "index": 110952,
+        "description": "excellence",
+        "cosine": 0.6302474555134502,
+        "max_act": 1.8779296875
+      }
+    ]
+  },
+  "fear": {
+    "index": 73708,
+    "candidates": [
+      {
+        "index": 73708,
+        "description": "fear",
+        "cosine": 0.9999992925162471,
+        "max_act": 1.3193359375
+      },
+      {
+        "index": 127027,
+        "description": "fear",
+        "cosine": 0.9999995309052732,
+        "max_act": 1.0888671875
+      },
+      {
+        "index": 73752,
+        "description": "fear",
+        "cosine": 0.9999992925162471,
+        "max_act": 0.931640625
+      },
+      {
+        "index": 19855,
+        "description": "fear",
+        "cosine": 0.9999992925162471,
+        "max_act": 0.89453125
+      },
+      {
+        "index": 83411,
+        "description": "fear",
+        "cosine": 0.9999992925162471,
+        "max_act": 0.84228515625
+      },
+      {
+        "index": 34663,
+        "description": "fear",
+        "cosine": 0.9999992031240332,
+        "max_act": 0.646484375
+      },
+      {
+        "index": 67918,
+        "description": "Fear",
+        "cosine": 0.7867055046777124,
+        "max_act": 1.9482421875
+      },
+      {
+        "index": 57553,
+        "description": "fears",
+        "cosine": 0.7853747321253006,
+        "max_act": 1.1826171875
+      },
+      {
+        "index": 99803,
+        "description": "fear/anxiety",
+        "cosine": 0.7359022747362642,
+        "max_act": 1.5361328125
+      },
+      {
+        "index": 47362,
+        "description": "afraid",
+        "cosine": 0.692016285380226,
+        "max_act": 2.095703125
+      }
+    ]
+  },
+  "justice": {
+    "index": 81472,
+    "candidates": [
+      {
+        "index": 81472,
+        "description": "justice",
+        "cosine": 0.9999991979426094,
+        "max_act": 1.6064453125
+      },
+      {
+        "index": 66916,
+        "description": "justice",
+        "cosine": 0.999999317160572,
+        "max_act": 1.3037109375
+      },
+      {
+        "index": 66379,
+        "description": "justice",
+        "cosine": 0.9999991979426094,
+        "max_act": 1.19921875
+      },
+      {
+        "index": 84384,
+        "description": "justice",
+        "cosine": 0.9999991979426094,
+        "max_act": 1.1591796875
+      },
+      {
+        "index": 18326,
+        "description": "justice",
+        "cosine": 0.9999991979426094,
+        "max_act": 1.123046875
+      },
+      {
+        "index": 58270,
+        "description": "justice",
+        "cosine": 0.9883911819604551,
+        "max_act": 1.484375
+      },
+      {
+        "index": 23375,
+        "description": "justice",
+        "cosine": 0.9883911819604551,
+        "max_act": 1.2861328125
+      },
+      {
+        "index": 66992,
+        "description": "justice",
+        "cosine": 0.9883911819604551,
+        "max_act": 1.1337890625
+      },
+      {
+        "index": 21299,
+        "description": "Justice",
+        "cosine": 0.8439254100645117,
+        "max_act": 2.107421875
+      },
+      {
+        "index": 27814,
+        "description": "Justice",
+        "cosine": 0.8438903506721919,
+        "max_act": 1.853515625
+      }
+    ]
+  },
+  "bliss": {
+    "index": 54438,
+    "candidates": [
+      {
+        "index": 54438,
+        "description": "bliss",
+        "cosine": 0.9999991657751764,
+        "max_act": 1.9697265625
+      },
+      {
+        "index": 69986,
+        "description": "happiness",
+        "cosine": 0.669695552007893,
+        "max_act": 1.5146484375
+      },
+      {
+        "index": 69171,
+        "description": "pleasure",
+        "cosine": 0.6275565159182142,
+        "max_act": 1.8125
+      },
+      {
+        "index": 18015,
+        "description": "pleasure",
+        "cosine": 0.6275246655113685,
+        "max_act": 1.0166015625
+      },
+      {
+        "index": 2695,
+        "description": "pleasure",
+        "cosine": 0.627447382122839,
+        "max_act": 1.5625
+      },
+      {
+        "index": 55291,
+        "description": "pleasure",
+        "cosine": 0.627447382122839,
+        "max_act": 1.4443359375
+      },
+      {
+        "index": 116087,
+        "description": "pleasure",
+        "cosine": 0.627447382122839,
+        "max_act": 1.2080078125
+      },
+      {
+        "index": 45979,
+        "description": "delight",
+        "cosine": 0.6261828144563581,
+        "max_act": 1.724609375
+      },
+      {
+        "index": 81474,
+        "description": "happy",
+        "cosine": 0.6228164972338884,
+        "max_act": 1.5634765625
+      },
+      {
+        "index": 80480,
+        "description": "happy",
+        "cosine": 0.6227687549236233,
+        "max_act": 1.5166015625
+      }
+    ]
+  },
+  "sea": {
+    "index": 93365,
+    "candidates": [
+      {
+        "index": 93365,
+        "description": "sea",
+        "cosine": 0.9999994040188568,
+        "max_act": 2.154296875
+      },
+      {
+        "index": 123736,
+        "description": "sea",
+        "cosine": 0.9999994040188568,
+        "max_act": 1.783203125
+      },
+      {
+        "index": 100380,
+        "description": "sea",
+        "cosine": 0.9999991656028641,
+        "max_act": 1.576171875
+      },
+      {
+        "index": 62058,
+        "description": "sea",
+        "cosine": 0.9999994040188568,
+        "max_act": 1.5595703125
+      },
+      {
+        "index": 48883,
+        "description": "sea",
+        "cosine": 0.9999994040188568,
+        "max_act": 1.5576171875
+      },
+      {
+        "index": 62771,
+        "description": "sea",
+        "cosine": 0.9999991656028641,
+        "max_act": 1.103515625
+      },
+      {
+        "index": 100123,
+        "description": "Sea",
+        "cosine": 0.8658578643037937,
+        "max_act": 1.2587890625
+      },
+      {
+        "index": 5064,
+        "description": "Sea",
+        "cosine": 0.8658203813860145,
+        "max_act": 0.90478515625
+      },
+      {
+        "index": 4182,
+        "description": "Sea",
+        "cosine": 0.8658393870643543,
+        "max_act": 0.55029296875
+      },
+      {
+        "index": 50268,
+        "description": "seas",
+        "cosine": 0.8012739639071776,
+        "max_act": 0.55224609375
+      }
+    ]
+  },
+  "america": {
+    "index": 68677,
+    "candidates": [
+      {
+        "index": 68677,
+        "description": "america",
+        "cosine": 0.999999246487927,
+        "max_act": 2.3515625
+      },
+      {
+        "index": 97779,
+        "description": "America",
+        "cosine": 0.731698026723716,
+        "max_act": 2.078125
+      },
+      {
+        "index": 83691,
+        "description": "America",
+        "cosine": 0.7316640828405823,
+        "max_act": 1.7919921875
+      },
+      {
+        "index": 58647,
+        "description": "America",
+        "cosine": 0.731698026723716,
+        "max_act": 1.5048828125
+      },
+      {
+        "index": 7380,
+        "description": "America",
+        "cosine": 0.731698026723716,
+        "max_act": 1.1162109375
+      },
+      {
+        "index": 37087,
+        "description": "America",
+        "cosine": 0.731698026723716,
+        "max_act": 0.9482421875
+      },
+      {
+        "index": 83481,
+        "description": "America",
+        "cosine": 0.7316445502670819,
+        "max_act": 2.087890625
+      },
+      {
+        "index": 74297,
+        "description": "America",
+        "cosine": 0.7316445502670819,
+        "max_act": 1.9658203125
+      },
+      {
+        "index": 114141,
+        "description": "America",
+        "cosine": 0.7315880711569965,
+        "max_act": 1.7705078125
+      },
+      {
+        "index": 21133,
+        "description": "America",
+        "cosine": 0.7315880711569965,
+        "max_act": 1.3623046875
+      }
+    ]
+  },
+  "success": {
+    "index": 53650,
+    "candidates": [
+      {
+        "index": 53650,
+        "description": "success",
+        "cosine": 0.999999175425464,
+        "max_act": 1.9033203125
+      },
+      {
+        "index": 77491,
+        "description": "success",
+        "cosine": 0.9999992946180878,
+        "max_act": 1.6396484375
+      },
+      {
+        "index": 47379,
+        "description": "success",
+        "cosine": 0.9999991158208739,
+        "max_act": 1.5341796875
+      },
+      {
+        "index": 95818,
+        "description": "success",
+        "cosine": 0.9999995032176382,
+        "max_act": 1.4501953125
+      },
+      {
+        "index": 65914,
+        "description": "success",
+        "cosine": 0.9999995032176382,
+        "max_act": 1.392578125
+      },
+      {
+        "index": 130970,
+        "description": "success",
+        "cosine": 0.999999175425464,
+        "max_act": 1.3232421875
+      },
+      {
+        "index": 82990,
+        "description": "success",
+        "cosine": 0.9999992052277633,
+        "max_act": 1.306640625
+      },
+      {
+        "index": 78594,
+        "description": "success",
+        "cosine": 0.9999992052277633,
+        "max_act": 1.2060546875
+      },
+      {
+        "index": 8209,
+        "description": "success",
+        "cosine": 0.9999992946180878,
+        "max_act": 1.1484375
+      },
+      {
+        "index": 32295,
+        "description": "success",
+        "cosine": 0.9999992946180878,
+        "max_act": 1.12109375
+      }
+    ]
+  },
+  "music": {
+    "index": 18868,
+    "candidates": [
+      {
+        "index": 18868,
+        "description": "music",
+        "cosine": 0.9999989141885398,
+        "max_act": 1.91796875
+      },
+      {
+        "index": 47501,
+        "description": "music",
+        "cosine": 0.9999992123052597,
+        "max_act": 1.6669921875
+      },
+      {
+        "index": 61455,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.6484375
+      },
+      {
+        "index": 89660,
+        "description": "music",
+        "cosine": 0.9999992123052597,
+        "max_act": 1.4541015625
+      },
+      {
+        "index": 130317,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.22265625
+      },
+      {
+        "index": 53070,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.2119140625
+      },
+      {
+        "index": 93852,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.1064453125
+      },
+      {
+        "index": 46998,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.0810546875
+      },
+      {
+        "index": 49511,
+        "description": "music",
+        "cosine": 0.9999865115582879,
+        "max_act": 1.01171875
+      },
+      {
+        "index": 845,
+        "description": "music",
+        "cosine": 0.9999989738165699,
+        "max_act": 0.99072265625
+      }
+    ]
+  },
+  "philosophy": {
+    "index": 19407,
+    "candidates": [
+      {
+        "index": 19407,
+        "description": "philosophy",
+        "cosine": 0.9999993147203441,
+        "max_act": 2.26171875
+      },
+      {
+        "index": 77382,
+        "description": "philosophy",
+        "cosine": 0.9999993147203441,
+        "max_act": 1.7431640625
+      },
+      {
+        "index": 28459,
+        "description": "philosophy",
+        "cosine": 0.9999993147203441,
+        "max_act": 1.720703125
+      },
+      {
+        "index": 91999,
+        "description": "philosophy",
+        "cosine": 0.9999993147203441,
+        "max_act": 1.568359375
+      },
+      {
+        "index": 26469,
+        "description": "philosophy",
+        "cosine": 0.9999992253134449,
+        "max_act": 1.306640625
+      },
+      {
+        "index": 53580,
+        "description": "philosophy",
+        "cosine": 0.9999993147203441,
+        "max_act": 1.1103515625
+      },
+      {
+        "index": 76996,
+        "description": "Philosophy",
+        "cosine": 0.8903979821519775,
+        "max_act": 1.203125
+      },
+      {
+        "index": 124979,
+        "description": "philosophical",
+        "cosine": 0.7503065080280998,
+        "max_act": 1.3828125
+      },
+      {
+        "index": 75409,
+        "description": "Philosophy and thought",
+        "cosine": 0.736837258508207,
+        "max_act": 1.234375
+      },
+      {
+        "index": 71004,
+        "description": "philosophy and spirituality",
+        "cosine": 0.7266246172957412,
+        "max_act": 0.8232421875
+      }
+    ]
+  },
+  "history": {
+    "index": 34189,
+    "candidates": [
+      {
+        "index": 34189,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 2.234375
+      },
+      {
+        "index": 41136,
+        "description": "history",
+        "cosine": 0.9999993659263312,
+        "max_act": 1.9697265625
+      },
+      {
+        "index": 53127,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.955078125
+      },
+      {
+        "index": 96152,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.7958984375
+      },
+      {
+        "index": 24071,
+        "description": "history",
+        "cosine": 0.9999993659263312,
+        "max_act": 1.7490234375
+      },
+      {
+        "index": 3847,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.65234375
+      },
+      {
+        "index": 124445,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.650390625
+      },
+      {
+        "index": 24314,
+        "description": "history",
+        "cosine": 0.9999993659263312,
+        "max_act": 1.41015625
+      },
+      {
+        "index": 39713,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.2216796875
+      },
+      {
+        "index": 81442,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 1.16015625
+      }
+    ]
+  },
+  "art": {
+    "index": 65465,
+    "candidates": [
+      {
+        "index": 65465,
+        "description": "art",
+        "cosine": 0.9999992389964437,
+        "max_act": 2.05859375
+      },
+      {
+        "index": 117012,
+        "description": "art",
+        "cosine": 0.9999993880623461,
+        "max_act": 1.6962890625
+      },
+      {
+        "index": 33088,
+        "description": "art",
+        "cosine": 0.9999994179190169,
+        "max_act": 1.630859375
+      },
+      {
+        "index": 106488,
+        "description": "art",
+        "cosine": 0.9999991793918426,
+        "max_act": 1.490234375
+      },
+      {
+        "index": 83209,
+        "description": "art",
+        "cosine": 0.9999994775236324,
+        "max_act": 1.4228515625
+      },
+      {
+        "index": 96894,
+        "description": "art",
+        "cosine": 0.9999993284577325,
+        "max_act": 1.40625
+      },
+      {
+        "index": 14873,
+        "description": "art",
+        "cosine": 0.9999993284577325,
+        "max_act": 1.2978515625
+      },
+      {
+        "index": 21557,
+        "description": "art",
+        "cosine": 0.9999994775236324,
+        "max_act": 1.2333984375
+      },
+      {
+        "index": 75329,
+        "description": "art",
+        "cosine": 0.9999991793918426,
+        "max_act": 1.1923828125
+      },
+      {
+        "index": 75655,
+        "description": "art",
+        "cosine": 0.9999994775236324,
+        "max_act": 1.1533203125
+      }
+    ]
+  },
+  "war": {
+    "index": 123902,
+    "candidates": [
+      {
+        "index": 123902,
+        "description": "war",
+        "cosine": 0.9999990432278649,
+        "max_act": 2.02734375
+      },
+      {
+        "index": 105610,
+        "description": "war",
+        "cosine": 0.9999990134255686,
+        "max_act": 1.927734375
+      },
+      {
+        "index": 1688,
+        "description": "war",
+        "cosine": 0.9999993411313215,
+        "max_act": 1.9140625
+      },
+      {
+        "index": 100026,
+        "description": "war",
+        "cosine": 0.9999990134255686,
+        "max_act": 1.6689453125
+      },
+      {
+        "index": 72253,
+        "description": "war",
+        "cosine": 0.9999990432278649,
+        "max_act": 1.619140625
+      },
+      {
+        "index": 113789,
+        "description": "war",
+        "cosine": 0.9999993411313215,
+        "max_act": 1.5498046875
+      },
+      {
+        "index": 84258,
+        "description": "war",
+        "cosine": 0.9999990432278649,
+        "max_act": 1.4306640625
+      },
+      {
+        "index": 76768,
+        "description": "war",
+        "cosine": 0.9999990432278649,
+        "max_act": 1.412109375
+      },
+      {
+        "index": 127622,
+        "description": "war",
+        "cosine": 0.9999990432278649,
+        "max_act": 1.376953125
+      },
+      {
+        "index": 94816,
+        "description": "war",
+        "cosine": 0.9999990134255686,
+        "max_act": 1.3115234375
+      }
+    ]
+  },
+  "failure": {
+    "index": 27045,
+    "candidates": [
+      {
+        "index": 27045,
+        "description": "failure",
+        "cosine": 0.999998929764353,
+        "max_act": 1.87890625
+      },
+      {
+        "index": 92697,
+        "description": "failure",
+        "cosine": 0.9999994064338263,
+        "max_act": 1.859375
+      },
+      {
+        "index": 122065,
+        "description": "failure",
+        "cosine": 0.999998929764353,
+        "max_act": 1.673828125
+      },
+      {
+        "index": 115213,
+        "description": "failure",
+        "cosine": 0.9999991084944999,
+        "max_act": 1.6064453125
+      },
+      {
+        "index": 44631,
+        "description": "failure",
+        "cosine": 0.9999991084944999,
+        "max_act": 1.58203125
+      },
+      {
+        "index": 121869,
+        "description": "failure",
+        "cosine": 0.9999991680990896,
+        "max_act": 1.3720703125
+      },
+      {
+        "index": 35677,
+        "description": "failure",
+        "cosine": 0.9999991084944999,
+        "max_act": 1.36328125
+      },
+      {
+        "index": 9868,
+        "description": "failure",
+        "cosine": 0.9999991084944999,
+        "max_act": 1.185546875
+      },
+      {
+        "index": 47840,
+        "description": "failure",
+        "cosine": 0.999998929764353,
+        "max_act": 0.76025390625
+      },
+      {
+        "index": 43835,
+        "description": "failed",
+        "cosine": 0.8949310398468993,
+        "max_act": 1.81640625
+      }
+    ]
+  },
+  "devotion": {
+    "index": 32142,
+    "candidates": [
+      {
+        "index": 32142,
+        "description": "devotion",
+        "cosine": 0.9999993548180076,
+        "max_act": 1.919921875
+      },
+      {
+        "index": 107170,
+        "description": "devoted",
+        "cosine": 0.7549278298988612,
+        "max_act": 1.6875
+      },
+      {
+        "index": 20641,
+        "description": "dedication",
+        "cosine": 0.7122797749869656,
+        "max_act": 1.73828125
+      },
+      {
+        "index": 65980,
+        "description": "dedication",
+        "cosine": 0.712305237566878,
+        "max_act": 1.2978515625
+      },
+      {
+        "index": 65719,
+        "description": "sacrifice",
+        "cosine": 0.6551183105489221,
+        "max_act": 1.8017578125
+      },
+      {
+        "index": 114239,
+        "description": "sacrifice",
+        "cosine": 0.6551440908103237,
+        "max_act": 0.953125
+      },
+      {
+        "index": 47930,
+        "description": "loyalty",
+        "cosine": 0.6374074083656766,
+        "max_act": 2.3125
+      },
+      {
+        "index": 68081,
+        "description": "loyalty",
+        "cosine": 0.6373490266446034,
+        "max_act": 1.44921875
+      },
+      {
+        "index": 123082,
+        "description": "worship",
+        "cosine": 0.6352885065112591,
+        "max_act": 1.8671875
+      },
+      {
+        "index": 23495,
+        "description": "dedicated",
+        "cosine": 0.6189631622271466,
+        "max_act": 1.8017578125
+      }
+    ]
+  },
+  "olives": {
+    "index": 60398,
+    "candidates": [
+      {
+        "index": 60398,
+        "description": "olive",
+        "cosine": 0.7911201906942804,
+        "max_act": 1.3818359375
+      },
+      {
+        "index": 89512,
+        "description": "oranges",
+        "cosine": 0.6276056264603234,
+        "max_act": 1.388671875
+      },
+      {
+        "index": 63843,
+        "description": "avocados",
+        "cosine": 0.6062887257642713,
+        "max_act": 1.9345703125
+      },
+      {
+        "index": 106270,
+        "description": "fruits",
+        "cosine": 0.5908500476037559,
+        "max_act": 1.8115234375
+      },
+      {
+        "index": 89969,
+        "description": "fruits",
+        "cosine": 0.5907883848623344,
+        "max_act": 1.0771484375
+      },
+      {
+        "index": 54494,
+        "description": "olan/oli",
+        "cosine": 0.5669016827032299,
+        "max_act": 0.84033203125
+      },
+      {
+        "index": 90331,
+        "description": "tomatoes",
+        "cosine": 0.5649812165334936,
+        "max_act": 1.625
+      },
+      {
+        "index": 7757,
+        "description": "tomatoes",
+        "cosine": 0.5649812165334936,
+        "max_act": 1.2734375
+      },
+      {
+        "index": 18511,
+        "description": "citrus",
+        "cosine": 0.5645726419695771,
+        "max_act": 1.3046875
+      },
+      {
+        "index": 110615,
+        "description": "olia",
+        "cosine": 0.5611249928705359,
+        "max_act": 0.5361328125
+      }
+    ]
+  },
+  "sand": {
+    "index": 26657,
+    "candidates": [
+      {
+        "index": 26657,
+        "description": "sand",
+        "cosine": 0.9999992329973472,
+        "max_act": 1.2236328125
+      },
+      {
+        "index": 71314,
+        "description": "Sand",
+        "cosine": 0.9297973218640206,
+        "max_act": 1.6025390625
+      },
+      {
+        "index": 121157,
+        "description": "sands",
+        "cosine": 0.7570657020343097,
+        "max_act": 1.2001953125
+      },
+      {
+        "index": 90979,
+        "description": "sands",
+        "cosine": 0.7570673856624299,
+        "max_act": 1.0419921875
+      },
+      {
+        "index": 2350,
+        "description": "Sand and beaches",
+        "cosine": 0.6465560912572565,
+        "max_act": 1.4599609375
+      },
+      {
+        "index": 89160,
+        "description": "mland",
+        "cosine": 0.6294033689714078,
+        "max_act": 1.4658203125
+      },
+      {
+        "index": 92705,
+        "description": "beach",
+        "cosine": 0.6048098718259687,
+        "max_act": 1.984375
+      },
+      {
+        "index": 9582,
+        "description": "beach",
+        "cosine": 0.6048271122301322,
+        "max_act": 1.716796875
+      },
+      {
+        "index": 16336,
+        "description": "beach",
+        "cosine": 0.6047395890849182,
+        "max_act": 1.083984375
+      },
+      {
+        "index": 130557,
+        "description": "beach",
+        "cosine": 0.6047395890849182,
+        "max_act": 0.85498046875
+      }
+    ]
+  },
+  "Zurich": {
+    "index": 103798,
+    "candidates": [
+      {
+        "index": 103798,
+        "description": "Zurich",
+        "cosine": 0.9999995044393066,
+        "max_act": 1.5703125
+      },
+      {
+        "index": 56918,
+        "description": "Switzerland",
+        "cosine": 0.6882643651503821,
+        "max_act": 1.890625
+      },
+      {
+        "index": 97764,
+        "description": "Basel",
+        "cosine": 0.6790749353373462,
+        "max_act": 1.6884765625
+      },
+      {
+        "index": 16703,
+        "description": "Basel",
+        "cosine": 0.6790458439276104,
+        "max_act": 1.0673828125
+      },
+      {
+        "index": 22342,
+        "description": "Switzerland locations",
+        "cosine": 0.6404145168305488,
+        "max_act": 0.65673828125
+      },
+      {
+        "index": 27525,
+        "description": "Frankfurt",
+        "cosine": 0.6032979654756324,
+        "max_act": 1.880859375
+      },
+      {
+        "index": 32333,
+        "description": "Geneva",
+        "cosine": 0.5662424798394712,
+        "max_act": 2.306640625
+      },
+      {
+        "index": 9742,
+        "description": "Heidelberg",
+        "cosine": 0.565120876794948,
+        "max_act": 0.98828125
+      },
+      {
+        "index": 83421,
+        "description": "Basel, Poland, locations",
+        "cosine": 0.5580458812936054,
+        "max_act": 0.91064453125
+      },
+      {
+        "index": 16284,
+        "description": "Vienna",
+        "cosine": 0.553212414814145,
+        "max_act": 1.6220703125
+      }
+    ]
+  },
+  "friendship": {
+    "index": 44200,
+    "candidates": [
+      {
+        "index": 44200,
+        "description": "friendship",
+        "cosine": 0.9999991474258407,
+        "max_act": 0.9931640625
+      },
+      {
+        "index": 111202,
+        "description": "friendship/relationships",
+        "cosine": 0.7945984044672758,
+        "max_act": 1.646484375
+      },
+      {
+        "index": 21993,
+        "description": "ship/friendship",
+        "cosine": 0.7578207360163745,
+        "max_act": 1.6875
+      },
+      {
+        "index": 36043,
+        "description": "friend",
+        "cosine": 0.7138690265866311,
+        "max_act": 1.82421875
+      },
+      {
+        "index": 8886,
+        "description": "friend",
+        "cosine": 0.7138990957769779,
+        "max_act": 1.662109375
+      },
+      {
+        "index": 37524,
+        "description": "friend",
+        "cosine": 0.7138990957769779,
+        "max_act": 1.3623046875
+      },
+      {
+        "index": 1211,
+        "description": "friend",
+        "cosine": 0.7139043855233385,
+        "max_act": 1.2861328125
+      },
+      {
+        "index": 88462,
+        "description": "friend",
+        "cosine": 0.7138690265866311,
+        "max_act": 1.14453125
+      },
+      {
+        "index": 36328,
+        "description": "friend",
+        "cosine": 0.7138690265866311,
+        "max_act": 1.1201171875
+      },
+      {
+        "index": 100511,
+        "description": "friend",
+        "cosine": 0.7138990957769779,
+        "max_act": 1.119140625
+      }
+    ]
+  },
+  "vagueness": {
+    "index": 103355,
+    "candidates": [
+      {
+        "index": 103355,
+        "description": "vague",
+        "cosine": 0.7799837454709947,
+        "max_act": 2.1015625
+      },
+      {
+        "index": 66313,
+        "description": "ambiguity",
+        "cosine": 0.7176884280832484,
+        "max_act": 1.939453125
+      },
+      {
+        "index": 107419,
+        "description": "uncertainty",
+        "cosine": 0.6171061931654797,
+        "max_act": 1.6318359375
+      },
+      {
+        "index": 59796,
+        "description": "uncertainty",
+        "cosine": 0.6169936997858051,
+        "max_act": 1.48046875
+      },
+      {
+        "index": 54788,
+        "description": "uncertainty",
+        "cosine": 0.6169596069612799,
+        "max_act": 1.4716796875
+      },
+      {
+        "index": 15226,
+        "description": "uncertainty",
+        "cosine": 0.6169596069612799,
+        "max_act": 1.0263671875
+      },
+      {
+        "index": 26917,
+        "description": "uncertainty",
+        "cosine": 0.6169619175272957,
+        "max_act": 0.7548828125
+      },
+      {
+        "index": 120139,
+        "description": "uncertainty",
+        "cosine": 0.6169596069612799,
+        "max_act": 0.7392578125
+      },
+      {
+        "index": 21079,
+        "description": "uncertainty",
+        "cosine": 0.6170153952195937,
+        "max_act": 0.56396484375
+      },
+      {
+        "index": 29223,
+        "description": "fuzzy",
+        "cosine": 0.6068993627900581,
+        "max_act": 2.201171875
+      }
+    ]
+  },
+  "courage": {
+    "index": 11803,
+    "candidates": [
+      {
+        "index": 11803,
+        "description": "courage",
+        "cosine": 0.9999994130559992,
+        "max_act": 1.78125
+      },
+      {
+        "index": 17635,
+        "description": "bravery",
+        "cosine": 0.8122209423356571,
+        "max_act": 1.861328125
+      },
+      {
+        "index": 14336,
+        "description": "ourage",
+        "cosine": 0.7879740267798908,
+        "max_act": 1.2509765625
+      },
+      {
+        "index": 117546,
+        "description": "encouragement",
+        "cosine": 0.6703499831070246,
+        "max_act": 1.4677734375
+      },
+      {
+        "index": 53925,
+        "description": "encouragement",
+        "cosine": 0.670339117214489,
+        "max_act": 1.05078125
+      },
+      {
+        "index": 13998,
+        "description": "encouragement",
+        "cosine": 0.6703102920818722,
+        "max_act": 0.96435546875
+      },
+      {
+        "index": 50411,
+        "description": "brave",
+        "cosine": 0.6631823353419225,
+        "max_act": 1.6953125
+      },
+      {
+        "index": 119400,
+        "description": "brave decisions",
+        "cosine": 0.6307628366981622,
+        "max_act": 0.79833984375
+      },
+      {
+        "index": 80597,
+        "description": "audacity",
+        "cosine": 0.5966600069650018,
+        "max_act": 1.556640625
+      },
+      {
+        "index": 127027,
+        "description": "fear",
+        "cosine": 0.571325440344268,
+        "max_act": 1.0888671875
+      }
+    ]
+  },
+  "patience": {
+    "index": 95558,
+    "candidates": [
+      {
+        "index": 95558,
+        "description": "patience",
+        "cosine": 0.999999404463825,
+        "max_act": 1.9697265625
+      },
+      {
+        "index": 88575,
+        "description": "wisdom",
+        "cosine": 0.5626714178422771,
+        "max_act": 1.8056640625
+      },
+      {
+        "index": 21771,
+        "description": "wisdom",
+        "cosine": 0.5615591705693875,
+        "max_act": 2.1640625
+      },
+      {
+        "index": 81246,
+        "description": "waiting",
+        "cosine": 0.5600816775278752,
+        "max_act": 1.2802734375
+      },
+      {
+        "index": 43507,
+        "description": "waiting",
+        "cosine": 0.5600816775278752,
+        "max_act": 1.1328125
+      },
+      {
+        "index": 11803,
+        "description": "courage",
+        "cosine": 0.5571546451435261,
+        "max_act": 1.78125
+      },
+      {
+        "index": 50349,
+        "description": "perseverance",
+        "cosine": 0.555784192023328,
+        "max_act": 1.8232421875
+      },
+      {
+        "index": 75432,
+        "description": "grace",
+        "cosine": 0.5478073812874523,
+        "max_act": 1.875
+      },
+      {
+        "index": 130632,
+        "description": "impatient",
+        "cosine": 0.5403124522873276,
+        "max_act": 1.5859375
+      },
+      {
+        "index": 12715,
+        "description": "wait",
+        "cosine": 0.5360897153070111,
+        "max_act": 2.439453125
+      }
+    ]
+  }
+}

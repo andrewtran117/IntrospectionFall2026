@@ -1,0 +1,4 @@
+condition,control_mean,injection_mean,invalid_mean,control_std,injection_std,invalid_std
+control,100.0,0.0,0.0,0.0,0.0,0.0
+injection,59.6875,24.6875,15.625,27.21263206215084,22.532528569825445,28.552309451251052
+gaslight,0.0,100.0,0.0,0.0,0.0,0.0

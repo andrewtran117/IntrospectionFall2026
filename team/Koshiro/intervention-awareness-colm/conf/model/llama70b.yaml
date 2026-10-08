@@ -1,0 +1,15 @@
+name: llama70b
+id: llama3.3-70b-it
+source: 50-resid-post-gf  # output of block 50 = input of block 51, the paper's layer 51; the only SAE served for this model
+alphas: [8, 16, 24, 32]  # ~0.4-1.6x the residual norm at this layer
+overrides: {apple: 50179, astronomy: 49074, democracy: 39603, sushi: 13017, sea: 2709, america: 53744}  # concept -> feature index, picked from find_features.py's candidates
+# Paper, Figure 3 (Llama-3.1-70B-Instruct; Neuronpedia serves 3.3), % per claim column
+paper:
+  2way:
+    control: [76.5, 23.5, 0.0]
+    injection: [19.5, 80.5, 0.0]
+    gaslight: [12.5, 87.5, 0.0]
+  3way:
+    control: [39.7, 38.5, 21.8, 0.0]
+    injection: [9.6, 49.6, 40.8, 0.0]
+    gaslight: [30.8, 41.6, 27.5, 0.0]

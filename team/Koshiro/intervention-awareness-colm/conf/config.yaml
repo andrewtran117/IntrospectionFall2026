@@ -1,0 +1,42 @@
+defaults:
+  - model: llama8b
+  - _self_
+  - override hydra/job_logging: disabled
+  - override hydra/hydra_logging: disabled
+
+results_dir: results
+timestamp: ${now:%Y%m%d-%H%M%S}  # pass an existing one to resume a run
+temperature: 0.7
+n_tokens: 64
+# Appendix E of the paper
+concepts: [apple, astronomy, democracy, sushi, football, rivers, algorithms, poetry, economics, gardening, malice, goodness, fear, justice, bliss, sea, america, success, music, philosophy, history, art, war, failure, devotion, olives, sand, Zurich, friendship, vagueness, courage, patience]
+
+find_features:
+  experiment_name: ${model.name}_${model.source}
+  n_candidates: 10
+
+sweep_alpha:
+  experiment_name: ${model.name}_${model.source}_${sweep_alpha.task}
+  task: 2way
+  alphas: ${model.alphas}
+  n_trials: 1
+  features: ${results_dir}/find_features/${find_features.experiment_name}/latest/features.json
+
+collect_trials:
+  experiment_name: ${model.name}_${model.source}_${collect_trials.task}
+  task: 2way
+  n_trials: 20
+  features: ${sweep_alpha.features}
+  alpha: ${results_dir}/sweep_alpha/${sweep_alpha.experiment_name}/latest/alpha.json
+
+analyze_trials:
+  experiment_name: ${model.name}_${model.source}_${analyze_trials.task}
+  task: 2way
+  trials:
+    - ${results_dir}/collect_trials/${model.name}_${model.source}_${analyze_trials.task}/latest/trials.jsonl
+    - ${results_dir}/sweep_alpha/${sweep_alpha.experiment_name}/latest/trials.jsonl
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null

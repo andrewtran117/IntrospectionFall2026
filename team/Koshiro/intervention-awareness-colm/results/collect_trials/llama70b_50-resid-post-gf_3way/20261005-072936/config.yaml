@@ -1,0 +1,108 @@
+model:
+  name: llama70b
+  id: llama3.3-70b-it
+  source: 50-resid-post-gf
+  alphas:
+  - 8
+  - 16
+  - 24
+  - 32
+  overrides:
+    apple: 50179
+    astronomy: 49074
+    democracy: 39603
+    sushi: 13017
+    sea: 2709
+    america: 53744
+  paper:
+    2way:
+      control:
+      - 76.5
+      - 23.5
+      - 0.0
+      injection:
+      - 19.5
+      - 80.5
+      - 0.0
+      gaslight:
+      - 12.5
+      - 87.5
+      - 0.0
+    3way:
+      control:
+      - 39.7
+      - 38.5
+      - 21.8
+      - 0.0
+      injection:
+      - 9.6
+      - 49.6
+      - 40.8
+      - 0.0
+      gaslight:
+      - 30.8
+      - 41.6
+      - 27.5
+      - 0.0
+results_dir: results
+timestamp: 20261005-072936
+temperature: 0.7
+n_tokens: 64
+concepts:
+- apple
+- astronomy
+- democracy
+- sushi
+- football
+- rivers
+- algorithms
+- poetry
+- economics
+- gardening
+- malice
+- goodness
+- fear
+- justice
+- bliss
+- sea
+- america
+- success
+- music
+- philosophy
+- history
+- art
+- war
+- failure
+- devotion
+- olives
+- sand
+- Zurich
+- friendship
+- vagueness
+- courage
+- patience
+find_features:
+  experiment_name: llama70b_50-resid-post-gf
+  n_candidates: 10
+sweep_alpha:
+  experiment_name: llama70b_50-resid-post-gf_2way
+  task: 2way
+  alphas:
+  - 8
+  - 16
+  - 24
+  - 32
+  n_trials: 1
+  features: results/find_features/llama70b_50-resid-post-gf/latest/features.json
+collect_trials:
+  experiment_name: llama70b_50-resid-post-gf_3way
+  task: 3way
+  n_trials: 20
+  features: results/find_features/llama70b_50-resid-post-gf/latest/features.json
+  alpha: results/sweep_alpha/llama70b_50-resid-post-gf_2way/latest/alpha.json
+analyze_trials:
+  experiment_name: llama70b_50-resid-post-gf_2way
+  task: 2way
+  trials:
+  - results/collect_trials/llama70b_50-resid-post-gf_2way/latest/trials.jsonl
+  - results/sweep_alpha/llama70b_50-resid-post-gf_2way/latest/trials.jsonl

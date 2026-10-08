@@ -1,0 +1,10 @@
+,,ours,ours_std,paper,diff
+control,control,100.0,0.0,76.5,23.5
+control,injection,0.0,0.0,23.5,-23.5
+control,invalid,0.0,0.0,0.0,0.0
+injection,control,59.6875,27.21263206215084,19.5,40.1875
+injection,injection,24.6875,22.532528569825445,80.5,-55.8125
+injection,invalid,15.625,28.552309451251052,0.0,15.625
+gaslight,control,0.0,0.0,12.5,-12.5
+gaslight,injection,100.0,0.0,87.5,12.5
+gaslight,invalid,0.0,0.0,0.0,0.0

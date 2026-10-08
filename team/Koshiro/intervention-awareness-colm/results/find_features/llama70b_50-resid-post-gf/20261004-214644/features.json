@@ -1,0 +1,2082 @@
+{
+  "apple": {
+    "index": 5869,
+    "candidates": [
+      {
+        "index": 5869,
+        "description": "apple counts",
+        "cosine": 0.7709283485805429,
+        "max_act": 8.6875
+      },
+      {
+        "index": 3041,
+        "description": "the apple",
+        "cosine": 0.7676606172223177,
+        "max_act": 10.9375
+      },
+      {
+        "index": 2018,
+        "description": "apple patterns",
+        "cosine": 0.709762412690009,
+        "max_act": 5.4375
+      },
+      {
+        "index": 50179,
+        "description": "apples",
+        "cosine": 0.7075905931310292,
+        "max_act": 10.1875
+      },
+      {
+        "index": 4817,
+        "description": "towards Apple",
+        "cosine": 0.6635210031921049,
+        "max_act": 1.1406
+      },
+      {
+        "index": 20248,
+        "description": "apple pie and Apple products",
+        "cosine": 0.621724665079298,
+        "max_act": 11.5625
+      },
+      {
+        "index": 19043,
+        "description": "apples left",
+        "cosine": 0.6198983632592062,
+        "max_act": 12.625
+      },
+      {
+        "index": 14719,
+        "description": "apples left",
+        "cosine": 0.6198983632592062,
+        "max_act": 3.0625
+      },
+      {
+        "index": 11091,
+        "description": "fruit and apples",
+        "cosine": 0.5904454917411588,
+        "max_act": 6.75
+      },
+      {
+        "index": 26592,
+        "description": "apples left over",
+        "cosine": 0.588563100483501,
+        "max_act": 2.7969
+      }
+    ]
+  },
+  "astronomy": {
+    "index": 36758,
+    "candidates": [
+      {
+        "index": 36758,
+        "description": "oceanography",
+        "cosine": 0.5476749539222772,
+        "max_act": 12.5
+      },
+      {
+        "index": 49074,
+        "description": "celestial bodies and cosmology",
+        "cosine": 0.5364454121886612,
+        "max_act": 5.8125
+      },
+      {
+        "index": 48010,
+        "description": "celestial objects and space",
+        "cosine": 0.529383740302962,
+        "max_act": 4.4688
+      },
+      {
+        "index": 48085,
+        "description": "celestial orbits",
+        "cosine": 0.5281369216869043,
+        "max_act": 6.3438
+      },
+      {
+        "index": 32262,
+        "description": "solar system",
+        "cosine": 0.5119674026671703,
+        "max_act": 8.375
+      },
+      {
+        "index": 24091,
+        "description": "its observation or observatory",
+        "cosine": 0.5044114613230887,
+        "max_act": 10.8125
+      },
+      {
+        "index": 1322,
+        "description": "telescope",
+        "cosine": 0.501548270102364,
+        "max_act": 7.3438
+      },
+      {
+        "index": 9587,
+        "description": "astronomy devices and NASA",
+        "cosine": 0.501360698341727,
+        "max_act": 7.75
+      },
+      {
+        "index": 11037,
+        "description": "astrology and planets",
+        "cosine": 0.4950709895391556,
+        "max_act": 3.0312
+      },
+      {
+        "index": 4043,
+        "description": "the universe and earth",
+        "cosine": 0.49438110558370363,
+        "max_act": 4.7812
+      }
+    ]
+  },
+  "democracy": {
+    "index": 41771,
+    "candidates": [
+      {
+        "index": 41771,
+        "description": "such as democracy",
+        "cosine": 0.645706749274935,
+        "max_act": 7.75
+      },
+      {
+        "index": 43971,
+        "description": "politics",
+        "cosine": 0.5686797810325006,
+        "max_act": 8.75
+      },
+      {
+        "index": 1126,
+        "description": "governance",
+        "cosine": 0.5202652834566605,
+        "max_act": 10.625
+      },
+      {
+        "index": 14516,
+        "description": "political system governance state",
+        "cosine": 0.49636002814695723,
+        "max_act": 3.7188
+      },
+      {
+        "index": 39603,
+        "description": "democratic political concepts",
+        "cosine": 0.49281932015765384,
+        "max_act": 10.8125
+      },
+      {
+        "index": 20538,
+        "description": "executive branch government",
+        "cosine": 0.4893789111165484,
+        "max_act": 5.375
+      },
+      {
+        "index": 16195,
+        "description": "justice",
+        "cosine": 0.488533437028958,
+        "max_act": 6.7812
+      },
+      {
+        "index": 42208,
+        "description": "political life",
+        "cosine": 0.4885432688603186,
+        "max_act": 5.3438
+      },
+      {
+        "index": 61265,
+        "description": "presidential republic",
+        "cosine": 0.4878626334154178,
+        "max_act": 6.0312
+      },
+      {
+        "index": 36583,
+        "description": "freedom and liberty",
+        "cosine": 0.4877487908196193,
+        "max_act": 6.3438
+      }
+    ]
+  },
+  "sushi": {
+    "index": 31918,
+    "candidates": [
+      {
+        "index": 31918,
+        "description": "sushi-karlsruhe",
+        "cosine": 0.6883703167163017,
+        "max_act": 2.2344
+      },
+      {
+        "index": 57449,
+        "description": "fresh air and sushi",
+        "cosine": 0.6804561758045499,
+        "max_act": 12.3125
+      },
+      {
+        "index": 18984,
+        "description": "Japanese food items",
+        "cosine": 0.6222803743820247,
+        "max_act": 7.8125
+      },
+      {
+        "index": 13017,
+        "description": "sushi ingredients like avocado",
+        "cosine": 0.6190466016642298,
+        "max_act": 12.375
+      },
+      {
+        "index": 12786,
+        "description": "delicious food",
+        "cosine": 0.6047815996195768,
+        "max_act": 6
+      },
+      {
+        "index": 32284,
+        "description": "miso soup",
+        "cosine": 0.6011334873783526,
+        "max_act": 8.125
+      },
+      {
+        "index": 533,
+        "description": "japanese culture and food",
+        "cosine": 0.5890383525345908,
+        "max_act": 4.4375
+      },
+      {
+        "index": 20594,
+        "description": "food",
+        "cosine": 0.5688296948964848,
+        "max_act": 12.5
+      },
+      {
+        "index": 65167,
+        "description": "Tsukemono, Yakisoba, Misoshiru",
+        "cosine": 0.5644391247629671,
+        "max_act": 4.8438
+      },
+      {
+        "index": 54433,
+        "description": "food item",
+        "cosine": 0.5608176847970323,
+        "max_act": 6.5312
+      }
+    ]
+  },
+  "football": {
+    "index": 8932,
+    "candidates": [
+      {
+        "index": 8932,
+        "description": "football and soccer",
+        "cosine": 0.687873362259035,
+        "max_act": 9.5625
+      },
+      {
+        "index": 27106,
+        "description": "sports match",
+        "cosine": 0.6252794750784053,
+        "max_act": 4.9062
+      },
+      {
+        "index": 41806,
+        "description": "sports activities",
+        "cosine": 0.6185476926073332,
+        "max_act": 2.0625
+      },
+      {
+        "index": 16214,
+        "description": "sports and games",
+        "cosine": 0.595602784493041,
+        "max_act": 5.7812
+      },
+      {
+        "index": 7613,
+        "description": "sports league playing",
+        "cosine": 0.5849967564086376,
+        "max_act": 6.4688
+      },
+      {
+        "index": 10823,
+        "description": "sports and activities",
+        "cosine": 0.5838171841719362,
+        "max_act": 5.5938
+      },
+      {
+        "index": 62268,
+        "description": "sports and activities",
+        "cosine": 0.5837940618307623,
+        "max_act": 3.2344
+      },
+      {
+        "index": 26420,
+        "description": "football, fashion, cinema, sports",
+        "cosine": 0.5788954376582137,
+        "max_act": 3.1406
+      },
+      {
+        "index": 52342,
+        "description": "football clubs",
+        "cosine": 0.56607737636475,
+        "max_act": 6.6562
+      },
+      {
+        "index": 25405,
+        "description": "sport is a sport",
+        "cosine": 0.5538277790548017,
+        "max_act": 7
+      }
+    ]
+  },
+  "rivers": {
+    "index": 35660,
+    "candidates": [
+      {
+        "index": 35660,
+        "description": "river names",
+        "cosine": 0.7506726355843628,
+        "max_act": 6.4688
+      },
+      {
+        "index": 9323,
+        "description": "rivers and plains",
+        "cosine": 0.7219977738160474,
+        "max_act": 9.6875
+      },
+      {
+        "index": 55077,
+        "description": "river, banks, flow, crossings, journey",
+        "cosine": 0.6750617023150658,
+        "max_act": 11.8125
+      },
+      {
+        "index": 65031,
+        "description": "the + river names",
+        "cosine": 0.6714231738800919,
+        "max_act": 4.625
+      },
+      {
+        "index": 50134,
+        "description": "crossing rivers",
+        "cosine": 0.6712546514158053,
+        "max_act": 5.9062
+      },
+      {
+        "index": 64400,
+        "description": "the river's flow",
+        "cosine": 0.6628563369711705,
+        "max_act": 6.3438
+      },
+      {
+        "index": 35522,
+        "description": "water and steady streams",
+        "cosine": 0.5538167807251931,
+        "max_act": 3.9688
+      },
+      {
+        "index": 26379,
+        "description": "named lakes",
+        "cosine": 0.5515003016467811,
+        "max_act": 11.5
+      },
+      {
+        "index": 63057,
+        "description": "land and water systems",
+        "cosine": 0.5371336802427275,
+        "max_act": 6.2188
+      },
+      {
+        "index": 18884,
+        "description": "ripples in",
+        "cosine": 0.5258579906143013,
+        "max_act": 8.0625
+      }
+    ]
+  },
+  "algorithms": {
+    "index": 45146,
+    "candidates": [
+      {
+        "index": 45146,
+        "description": "including algorithms",
+        "cosine": 0.8661354044677271,
+        "max_act": 5.0625
+      },
+      {
+        "index": 11695,
+        "description": "algorithms and steps",
+        "cosine": 0.7931134155665587,
+        "max_act": 2.6094
+      },
+      {
+        "index": 55263,
+        "description": "algorithm",
+        "cosine": 0.7446551616595213,
+        "max_act": 13.0625
+      },
+      {
+        "index": 61395,
+        "description": "algorithms and data structures",
+        "cosine": 0.7402069627434175,
+        "max_act": 6.2812
+      },
+      {
+        "index": 47426,
+        "description": "algorithm and planning",
+        "cosine": 0.7371800380085485,
+        "max_act": 4.1875
+      },
+      {
+        "index": 1537,
+        "description": "algorithm/method operation",
+        "cosine": 0.7212848370728205,
+        "max_act": 5.6875
+      },
+      {
+        "index": 1056,
+        "description": "theory, instructions, or algorithms",
+        "cosine": 0.7192132826529247,
+        "max_act": 0.4297
+      },
+      {
+        "index": 38193,
+        "description": "algorithms, theory, tool, data",
+        "cosine": 0.7029632032027138,
+        "max_act": 1
+      },
+      {
+        "index": 61120,
+        "description": "binary code and algorithms",
+        "cosine": 0.6994984386477104,
+        "max_act": 6.5
+      },
+      {
+        "index": 51856,
+        "description": "computational techniques and algorithms",
+        "cosine": 0.69674273075776,
+        "max_act": 3.0156
+      }
+    ]
+  },
+  "poetry": {
+    "index": 19212,
+    "candidates": [
+      {
+        "index": 19212,
+        "description": "writing poems",
+        "cosine": 0.6751333658981264,
+        "max_act": 5.9375
+      },
+      {
+        "index": 32963,
+        "description": "poetry rhymes",
+        "cosine": 0.6714609117962781,
+        "max_act": 6.5625
+      },
+      {
+        "index": 57399,
+        "description": "poetry creation",
+        "cosine": 0.6551050027449875,
+        "max_act": 11.3125
+      },
+      {
+        "index": 55580,
+        "description": "haiku",
+        "cosine": 0.6533217580972557,
+        "max_act": 13.9375
+      },
+      {
+        "index": 7411,
+        "description": "haikus",
+        "cosine": 0.6335414868841864,
+        "max_act": 11.875
+      },
+      {
+        "index": 47574,
+        "description": "'s a poem",
+        "cosine": 0.6258956640117447,
+        "max_act": 5.5938
+      },
+      {
+        "index": 19369,
+        "description": "poem about",
+        "cosine": 0.6207976392714647,
+        "max_act": 9.125
+      },
+      {
+        "index": 13644,
+        "description": "composition, poem, account, treatise, fantasy, joy",
+        "cosine": 0.6172911450006243,
+        "max_act": 3.6875
+      },
+      {
+        "index": 4657,
+        "description": "a poem or short story",
+        "cosine": 0.6098760259844587,
+        "max_act": 8.1875
+      },
+      {
+        "index": 35642,
+        "description": "poetry slams and love of poetry",
+        "cosine": 0.5761752266988391,
+        "max_act": 8.0625
+      }
+    ]
+  },
+  "economics": {
+    "index": 7746,
+    "candidates": [
+      {
+        "index": 7746,
+        "description": "economy",
+        "cosine": 0.8476305165024166,
+        "max_act": 8.1875
+      },
+      {
+        "index": 7397,
+        "description": "economy and economics",
+        "cosine": 0.8066060775679201,
+        "max_act": 9.625
+      },
+      {
+        "index": 40469,
+        "description": "in the economy",
+        "cosine": 0.6817002027419852,
+        "max_act": 13.1875
+      },
+      {
+        "index": 42329,
+        "description": "economics and sociology concepts",
+        "cosine": 0.6566751460180192,
+        "max_act": 3.4531
+      },
+      {
+        "index": 46265,
+        "description": "economics economists ideas",
+        "cosine": 0.6556000505484257,
+        "max_act": 7.5625
+      },
+      {
+        "index": 31673,
+        "description": "governmental economics",
+        "cosine": 0.6451003873631613,
+        "max_act": 3.4531
+      },
+      {
+        "index": 41606,
+        "description": "trade and economics",
+        "cosine": 0.6349095791412144,
+        "max_act": 2.3906
+      },
+      {
+        "index": 14133,
+        "description": "economic and market",
+        "cosine": 0.6209551321778551,
+        "max_act": 5.4688
+      },
+      {
+        "index": 37497,
+        "description": "economy and financial markets",
+        "cosine": 0.6138244059658462,
+        "max_act": 3.7656
+      },
+      {
+        "index": 53242,
+        "description": "econom\u00eda y sociedad",
+        "cosine": 0.5921725359871269,
+        "max_act": 4.8125
+      }
+    ]
+  },
+  "gardening": {
+    "index": 53105,
+    "candidates": [
+      {
+        "index": 53105,
+        "description": "landscaping and gardening",
+        "cosine": 0.7900497042309624,
+        "max_act": 3.8281
+      },
+      {
+        "index": 5029,
+        "description": "garden and yard",
+        "cosine": 0.7075362340563343,
+        "max_act": 6.875
+      },
+      {
+        "index": 47961,
+        "description": "garden cleanup",
+        "cosine": 0.6708119582361523,
+        "max_act": 12.6875
+      },
+      {
+        "index": 48509,
+        "description": "home repair and gardening",
+        "cosine": 0.6637217721330948,
+        "max_act": 5.25
+      },
+      {
+        "index": 62153,
+        "description": "garden and bonsai",
+        "cosine": 0.6618541481863974,
+        "max_act": 4.9688
+      },
+      {
+        "index": 61605,
+        "description": "local gardening club, the garden's inhabitants",
+        "cosine": 0.5968147174713457,
+        "max_act": 4.9062
+      },
+      {
+        "index": 20691,
+        "description": "want to create or plant",
+        "cosine": 0.5703444030000437,
+        "max_act": 6.125
+      },
+      {
+        "index": 191,
+        "description": "grow or cultivation",
+        "cosine": 0.5430683595864246,
+        "max_act": 6.9375
+      },
+      {
+        "index": 1249,
+        "description": "growing for food",
+        "cosine": 0.542569663142119,
+        "max_act": 6.6562
+      },
+      {
+        "index": 45314,
+        "description": "low-growing plants and greenery",
+        "cosine": 0.5424370295564246,
+        "max_act": 5.5312
+      }
+    ]
+  },
+  "malice": {
+    "index": 39698,
+    "candidates": [
+      {
+        "index": 39698,
+        "description": "malicious intent or intended harm",
+        "cosine": 0.7580362747461592,
+        "max_act": 3.3125
+      },
+      {
+        "index": 52555,
+        "description": "malice and enemies",
+        "cosine": 0.7571345741612228,
+        "max_act": 3.0938
+      },
+      {
+        "index": 19648,
+        "description": "malevolent actions causing harm",
+        "cosine": 0.6660899211853528,
+        "max_act": 2.3594
+      },
+      {
+        "index": 35467,
+        "description": "malicious purposes",
+        "cosine": 0.6659837356088739,
+        "max_act": 3.5469
+      },
+      {
+        "index": 34269,
+        "description": "intentionally harmful actions",
+        "cosine": 0.6319318391998912,
+        "max_act": 9.625
+      },
+      {
+        "index": 52764,
+        "description": "malevolent and bad",
+        "cosine": 0.6218790782433364,
+        "max_act": 2.5781
+      },
+      {
+        "index": 54214,
+        "description": "malevolent sinister vicious sly",
+        "cosine": 0.6127209559364565,
+        "max_act": 6.7812
+      },
+      {
+        "index": 8330,
+        "description": "mens rea and intent",
+        "cosine": 0.5708015173646411,
+        "max_act": 5.0312
+      },
+      {
+        "index": 26801,
+        "description": "foul play or criminal activity",
+        "cosine": 0.5680986983013869,
+        "max_act": 4.0625
+      },
+      {
+        "index": 61916,
+        "description": "mischief and play",
+        "cosine": 0.562024328143347,
+        "max_act": 6.25
+      }
+    ]
+  },
+  "goodness": {
+    "index": 51203,
+    "candidates": [
+      {
+        "index": 51203,
+        "description": "kindness",
+        "cosine": 0.6773893320438705,
+        "max_act": 7.25
+      },
+      {
+        "index": 35922,
+        "description": "kindness and love",
+        "cosine": 0.6285132541869214,
+        "max_act": 5.125
+      },
+      {
+        "index": 22522,
+        "description": "excellence and greatness",
+        "cosine": 0.6249171729428882,
+        "max_act": 13
+      },
+      {
+        "index": 40790,
+        "description": "a good",
+        "cosine": 0.6102729094278493,
+        "max_act": 5.2812
+      },
+      {
+        "index": 38945,
+        "description": "a good",
+        "cosine": 0.6102729094278493,
+        "max_act": 2.4375
+      },
+      {
+        "index": 42481,
+        "description": "a good",
+        "cosine": 0.6101809931841629,
+        "max_act": 2.9219
+      },
+      {
+        "index": 16195,
+        "description": "justice",
+        "cosine": 0.6021740641772458,
+        "max_act": 6.7812
+      },
+      {
+        "index": 3308,
+        "description": "is good or important",
+        "cosine": 0.5944638293603386,
+        "max_act": 1.3359
+      },
+      {
+        "index": 29823,
+        "description": "good",
+        "cosine": 0.5943122731868298,
+        "max_act": 7.5
+      },
+      {
+        "index": 1080,
+        "description": "good",
+        "cosine": 0.5943122731868298,
+        "max_act": 4.3438
+      }
+    ]
+  },
+  "fear": {
+    "index": 39313,
+    "candidates": [
+      {
+        "index": 39313,
+        "description": "fear and worry",
+        "cosine": 0.7531426735860556,
+        "max_act": 5.0938
+      },
+      {
+        "index": 51671,
+        "description": "feeling fear",
+        "cosine": 0.7267272337810204,
+        "max_act": 4.3125
+      },
+      {
+        "index": 52502,
+        "description": "fear of",
+        "cosine": 0.7263694551692825,
+        "max_act": 5.375
+      },
+      {
+        "index": 19329,
+        "description": "fear and doubts",
+        "cosine": 0.716242732035368,
+        "max_act": 3.3906
+      },
+      {
+        "index": 33236,
+        "description": "fear and fear of",
+        "cosine": 0.6960537611194056,
+        "max_act": 10.5
+      },
+      {
+        "index": 11996,
+        "description": "fear and terror",
+        "cosine": 0.6575630126036891,
+        "max_act": 4.75
+      },
+      {
+        "index": 7120,
+        "description": "feared by all",
+        "cosine": 0.594690080390761,
+        "max_act": 4.1875
+      },
+      {
+        "index": 41282,
+        "description": "worry and concern",
+        "cosine": 0.5801202907910775,
+        "max_act": 5.7188
+      },
+      {
+        "index": 25091,
+        "description": "fear of negative outcomes",
+        "cosine": 0.5780547863025067,
+        "max_act": 5.8438
+      },
+      {
+        "index": 4335,
+        "description": "not afraid",
+        "cosine": 0.560838602147908,
+        "max_act": 9.5625
+      }
+    ]
+  },
+  "justice": {
+    "index": 16195,
+    "candidates": [
+      {
+        "index": 16195,
+        "description": "justice",
+        "cosine": 0.999999317160572,
+        "max_act": 6.7812
+      },
+      {
+        "index": 61612,
+        "description": "equality, justice, liberty",
+        "cosine": 0.6104863724912046,
+        "max_act": 4.9375
+      },
+      {
+        "index": 30594,
+        "description": "just followed by justice or justification",
+        "cosine": 0.6091327949641766,
+        "max_act": 8.8125
+      },
+      {
+        "index": 38374,
+        "description": "justice, injustices, judiciary",
+        "cosine": 0.6018421518110303,
+        "max_act": 9.9375
+      },
+      {
+        "index": 49597,
+        "description": "laws, costs, justice, good, purpose",
+        "cosine": 0.5871490972529937,
+        "max_act": 2.0625
+      },
+      {
+        "index": 50881,
+        "description": "loyalty and justice",
+        "cosine": 0.56834409769594,
+        "max_act": 7.6875
+      },
+      {
+        "index": 20406,
+        "description": "law",
+        "cosine": 0.5667931991775433,
+        "max_act": 6.1875
+      },
+      {
+        "index": 52077,
+        "description": "equality and fairness",
+        "cosine": 0.5603786163222433,
+        "max_act": 6.2812
+      },
+      {
+        "index": 1853,
+        "description": "what matters",
+        "cosine": 0.5543738122192331,
+        "max_act": 6.125
+      },
+      {
+        "index": 43052,
+        "description": "what matters",
+        "cosine": 0.5543738122192331,
+        "max_act": 2.7031
+      }
+    ]
+  },
+  "bliss": {
+    "index": 21671,
+    "candidates": [
+      {
+        "index": 21671,
+        "description": "happiness",
+        "cosine": 0.669695552007893,
+        "max_act": 3.8281
+      },
+      {
+        "index": 53980,
+        "description": "pleasure and happiness",
+        "cosine": 0.631244713692117,
+        "max_act": 7.8125
+      },
+      {
+        "index": 33875,
+        "description": "joy and happiness",
+        "cosine": 0.6218593039589413,
+        "max_act": 11.1875
+      },
+      {
+        "index": 56902,
+        "description": "joy and happiness",
+        "cosine": 0.6218657636620543,
+        "max_act": 4.625
+      },
+      {
+        "index": 51084,
+        "description": "joy and happiness",
+        "cosine": 0.6218657636620543,
+        "max_act": 2.5938
+      },
+      {
+        "index": 16696,
+        "description": "joy and love",
+        "cosine": 0.6139218978807801,
+        "max_act": 6.2812
+      },
+      {
+        "index": 56754,
+        "description": "happiness and fulfillment",
+        "cosine": 0.61198767177163,
+        "max_act": 13.375
+      },
+      {
+        "index": 17499,
+        "description": "be happy",
+        "cosine": 0.6087738441681506,
+        "max_act": 0.5312
+      },
+      {
+        "index": 39378,
+        "description": "pure bliss, divine kiss",
+        "cosine": 0.6011477767034079,
+        "max_act": 7.8125
+      },
+      {
+        "index": 1991,
+        "description": "happiness and comfort",
+        "cosine": 0.6009052742860342,
+        "max_act": 4.3438
+      }
+    ]
+  },
+  "sea": {
+    "index": 33777,
+    "candidates": [
+      {
+        "index": 33777,
+        "description": "where the sea",
+        "cosine": 0.6941491762122611,
+        "max_act": 4.3125
+      },
+      {
+        "index": 2709,
+        "description": "oceans and seas",
+        "cosine": 0.5938587140023879,
+        "max_act": 7.4062
+      },
+      {
+        "index": 17044,
+        "description": "waves and the sea",
+        "cosine": 0.5765597011607598,
+        "max_act": 7.4688
+      },
+      {
+        "index": 33340,
+        "description": "sea creatures and places",
+        "cosine": 0.5753022012452655,
+        "max_act": 14.875
+      },
+      {
+        "index": 13223,
+        "description": "space",
+        "cosine": 0.5695282087858824,
+        "max_act": 4.0312
+      },
+      {
+        "index": 40004,
+        "description": "seamless, seal, seize, seaborn",
+        "cosine": 0.5410634593358349,
+        "max_act": 6.25
+      },
+      {
+        "index": 54768,
+        "description": "seas in search of adventure",
+        "cosine": 0.5380781930863874,
+        "max_act": 2.0781
+      },
+      {
+        "index": 26683,
+        "description": "blue eyes and seas",
+        "cosine": 0.5242421694213479,
+        "max_act": 9.25
+      },
+      {
+        "index": 39737,
+        "description": "simple sea creatures",
+        "cosine": 0.5217395451019903,
+        "max_act": 2.75
+      },
+      {
+        "index": 51687,
+        "description": "water",
+        "cosine": 0.520457820724869,
+        "max_act": 9.9375
+      }
+    ]
+  },
+  "america": {
+    "index": 20229,
+    "candidates": [
+      {
+        "index": 20229,
+        "description": "United States of America",
+        "cosine": 0.6418880652273667,
+        "max_act": 1.125
+      },
+      {
+        "index": 53744,
+        "description": "States of America",
+        "cosine": 0.5803988728690398,
+        "max_act": 13
+      },
+      {
+        "index": 62945,
+        "description": "the United States",
+        "cosine": 0.5481469750918444,
+        "max_act": 0.625
+      },
+      {
+        "index": 38855,
+        "description": "from us",
+        "cosine": 0.5423035493550494,
+        "max_act": 0.5625
+      },
+      {
+        "index": 39685,
+        "description": "us all",
+        "cosine": 0.5385262161461085,
+        "max_act": 6.9375
+      },
+      {
+        "index": 8725,
+        "description": "charcoal, pastels, stockmarket, America",
+        "cosine": 0.5251949633683248,
+        "max_act": 1.0234
+      },
+      {
+        "index": 7255,
+        "description": ". our",
+        "cosine": 0.507385186471374,
+        "max_act": 4
+      },
+      {
+        "index": 51220,
+        "description": "the world",
+        "cosine": 0.5056045457673126,
+        "max_act": 9.25
+      },
+      {
+        "index": 39149,
+        "description": "United States",
+        "cosine": 0.5016897056167581,
+        "max_act": 9.25
+      },
+      {
+        "index": 12948,
+        "description": "United States",
+        "cosine": 0.5017144763848334,
+        "max_act": 3.5469
+      }
+    ]
+  },
+  "success": {
+    "index": 24184,
+    "candidates": [
+      {
+        "index": 24184,
+        "description": "successful",
+        "cosine": 0.8683728539763825,
+        "max_act": 2
+      },
+      {
+        "index": 33819,
+        "description": "has succeeded",
+        "cosine": 0.7440855355962754,
+        "max_act": 8
+      },
+      {
+        "index": 28180,
+        "description": "success or failure",
+        "cosine": 0.7221308946222726,
+        "max_act": 3.6875
+      },
+      {
+        "index": 48759,
+        "description": "successful execution",
+        "cosine": 0.7134192462092085,
+        "max_act": 3.9375
+      },
+      {
+        "index": 58171,
+        "description": "success and accomplishment",
+        "cosine": 0.7052960688526296,
+        "max_act": 3.75
+      },
+      {
+        "index": 15218,
+        "description": "has been successful",
+        "cosine": 0.6562590315305528,
+        "max_act": 4.0938
+      },
+      {
+        "index": 58217,
+        "description": "succeed and excel",
+        "cosine": 0.6552580518766047,
+        "max_act": 7.875
+      },
+      {
+        "index": 768,
+        "description": "failure",
+        "cosine": 0.6509343602489899,
+        "max_act": 3.8906
+      },
+      {
+        "index": 28197,
+        "description": "success and outcomes",
+        "cosine": 0.6479735946783384,
+        "max_act": 11.375
+      },
+      {
+        "index": 25019,
+        "description": "managed to complete an action",
+        "cosine": 0.640765022681352,
+        "max_act": 7.75
+      }
+    ]
+  },
+  "music": {
+    "index": 41154,
+    "candidates": [
+      {
+        "index": 41154,
+        "description": "music playing in background",
+        "cosine": 0.638210612056452,
+        "max_act": 6.5938
+      },
+      {
+        "index": 34429,
+        "description": "music or musical conjunction",
+        "cosine": 0.6147611966853482,
+        "max_act": 3.1562
+      },
+      {
+        "index": 28495,
+        "description": "audio, video, music, or written content",
+        "cosine": 0.599967781449964,
+        "max_act": 6.7812
+      },
+      {
+        "index": 2003,
+        "description": "books, movies, music, media",
+        "cosine": 0.5979269169756393,
+        "max_act": 2.875
+      },
+      {
+        "index": 20149,
+        "description": "music genres",
+        "cosine": 0.5941416108227663,
+        "max_act": 6.625
+      },
+      {
+        "index": 12290,
+        "description": "el music genres",
+        "cosine": 0.59377795066661,
+        "max_act": 9.375
+      },
+      {
+        "index": 53296,
+        "description": "genre",
+        "cosine": 0.5844794364033676,
+        "max_act": 4.9688
+      },
+      {
+        "index": 22766,
+        "description": "music theory, video, education, tech, industry",
+        "cosine": 0.5821163526409944,
+        "max_act": 11.1875
+      },
+      {
+        "index": 37810,
+        "description": "musical notes",
+        "cosine": 0.5650808205339696,
+        "max_act": 2.2031
+      },
+      {
+        "index": 11434,
+        "description": "a program or audio",
+        "cosine": 0.5632606155054165,
+        "max_act": 1.5
+      }
+    ]
+  },
+  "philosophy": {
+    "index": 43126,
+    "candidates": [
+      {
+        "index": 43126,
+        "description": "philosophy and philosophical",
+        "cosine": 0.7800736377487871,
+        "max_act": 11.125
+      },
+      {
+        "index": 32831,
+        "description": "philosophy and metaphysics",
+        "cosine": 0.7429260881732307,
+        "max_act": 6.2188
+      },
+      {
+        "index": 38903,
+        "description": "philosophy and thought phrases",
+        "cosine": 0.7340989461224308,
+        "max_act": 5.0312
+      },
+      {
+        "index": 27658,
+        "description": "philosophical questions",
+        "cosine": 0.7104363378313899,
+        "max_act": 15.5
+      },
+      {
+        "index": 41448,
+        "description": "philosophical existence and nature",
+        "cosine": 0.6872180311693815,
+        "max_act": 5.625
+      },
+      {
+        "index": 59170,
+        "description": "philosophical arguments and explorations",
+        "cosine": 0.6398889616757825,
+        "max_act": 5.7188
+      },
+      {
+        "index": 20462,
+        "description": "according to legend, philosophy, or belief",
+        "cosine": 0.6157210764633994,
+        "max_act": 7.3438
+      },
+      {
+        "index": 55040,
+        "description": "words starting with fil and philosophy",
+        "cosine": 0.6055883656814812,
+        "max_act": 12.375
+      },
+      {
+        "index": 37457,
+        "description": "philosophical works titles",
+        "cosine": 0.596321112179364,
+        "max_act": 7.4688
+      },
+      {
+        "index": 60353,
+        "description": "spiritual and philosophical concepts",
+        "cosine": 0.5937085126123162,
+        "max_act": 2.4688
+      }
+    ]
+  },
+  "history": {
+    "index": 51091,
+    "candidates": [
+      {
+        "index": 51091,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 14.5
+      },
+      {
+        "index": 2473,
+        "description": "history",
+        "cosine": 0.9999994255309508,
+        "max_act": 7
+      },
+      {
+        "index": 54164,
+        "description": "including history",
+        "cosine": 0.773090717046135,
+        "max_act": 5.4062
+      },
+      {
+        "index": 36478,
+        "description": "history and past events",
+        "cosine": 0.7350702661411034,
+        "max_act": 2.2969
+      },
+      {
+        "index": 38090,
+        "description": "history and decades",
+        "cosine": 0.725886051703244,
+        "max_act": 5.5625
+      },
+      {
+        "index": 29165,
+        "description": "the history of",
+        "cosine": 0.7222609213882354,
+        "max_act": 7.9375
+      },
+      {
+        "index": 11045,
+        "description": "history overview",
+        "cosine": 0.71332121959886,
+        "max_act": 6.4688
+      },
+      {
+        "index": 44084,
+        "description": "about history",
+        "cosine": 0.7048824126705039,
+        "max_act": 8.1875
+      },
+      {
+        "index": 25374,
+        "description": "history and culture",
+        "cosine": 0.6888056412842894,
+        "max_act": 8.9375
+      },
+      {
+        "index": 32276,
+        "description": "history and politics",
+        "cosine": 0.6840845785242975,
+        "max_act": 2.7031
+      }
+    ]
+  },
+  "art": {
+    "index": 20001,
+    "candidates": [
+      {
+        "index": 20001,
+        "description": "art, artistic styles, creations",
+        "cosine": 0.6376122756070823,
+        "max_act": 13.375
+      },
+      {
+        "index": 14149,
+        "description": "article",
+        "cosine": 0.6362260558891647,
+        "max_act": 6.4688
+      },
+      {
+        "index": 3171,
+        "description": "architecture",
+        "cosine": 0.6288552490788819,
+        "max_act": 9.375
+      },
+      {
+        "index": 23254,
+        "description": "works of art",
+        "cosine": 0.5999574194963487,
+        "max_act": 3.7188
+      },
+      {
+        "index": 13176,
+        "description": "the art of",
+        "cosine": 0.5985068999883086,
+        "max_act": 10.3125
+      },
+      {
+        "index": 32358,
+        "description": "art and creativity words",
+        "cosine": 0.5936532894109412,
+        "max_act": 4.5312
+      },
+      {
+        "index": 20056,
+        "description": "concept art",
+        "cosine": 0.5873512575756304,
+        "max_act": 9.6875
+      },
+      {
+        "index": 30519,
+        "description": "arts and crafts",
+        "cosine": 0.5830049170325471,
+        "max_act": 3.2031
+      },
+      {
+        "index": 57976,
+        "description": "art, history, work, and impact",
+        "cosine": 0.5740385610144151,
+        "max_act": 4.2188
+      },
+      {
+        "index": 41019,
+        "description": "art creation and types",
+        "cosine": 0.5620867485375055,
+        "max_act": 6.75
+      }
+    ]
+  },
+  "war": {
+    "index": 2612,
+    "candidates": [
+      {
+        "index": 2612,
+        "description": "war and violence",
+        "cosine": 0.6607418621107818,
+        "max_act": 3.9844
+      },
+      {
+        "index": 59147,
+        "description": "war or conflict",
+        "cosine": 0.654392757361022,
+        "max_act": 5
+      },
+      {
+        "index": 16295,
+        "description": "war and battles",
+        "cosine": 0.641235607575634,
+        "max_act": 3.2344
+      },
+      {
+        "index": 64226,
+        "description": "world war",
+        "cosine": 0.6250788656163049,
+        "max_act": 10.6875
+      },
+      {
+        "index": 17983,
+        "description": "war, threat, girls",
+        "cosine": 0.5981667207055509,
+        "max_act": 2.7969
+      },
+      {
+        "index": 15624,
+        "description": "war and combat",
+        "cosine": 0.5954216664803801,
+        "max_act": 5.5625
+      },
+      {
+        "index": 36044,
+        "description": "war on terror",
+        "cosine": 0.5896754640922381,
+        "max_act": 1.3125
+      },
+      {
+        "index": 49598,
+        "description": "war on terror",
+        "cosine": 0.5895706897974438,
+        "max_act": 6.4062
+      },
+      {
+        "index": 1048,
+        "description": "war and victory",
+        "cosine": 0.5891016988255977,
+        "max_act": 4.875
+      },
+      {
+        "index": 34916,
+        "description": "the war and conflict",
+        "cosine": 0.5865468867432903,
+        "max_act": 6.4375
+      }
+    ]
+  },
+  "failure": {
+    "index": 768,
+    "candidates": [
+      {
+        "index": 768,
+        "description": "failure",
+        "cosine": 0.9999991084944999,
+        "max_act": 3.8906
+      },
+      {
+        "index": 1235,
+        "description": "fail to",
+        "cosine": 0.7582461154653096,
+        "max_act": 10.6875
+      },
+      {
+        "index": 65466,
+        "description": "failure and success",
+        "cosine": 0.746714170064016,
+        "max_act": 3.7031
+      },
+      {
+        "index": 64918,
+        "description": "failure or error conditions",
+        "cosine": 0.7254420798117365,
+        "max_act": 5.5938
+      },
+      {
+        "index": 28180,
+        "description": "success or failure",
+        "cosine": 0.7216407003454856,
+        "max_act": 3.6875
+      },
+      {
+        "index": 34266,
+        "description": "failure and its consequences",
+        "cosine": 0.6911756817976217,
+        "max_act": 3.9844
+      },
+      {
+        "index": 44821,
+        "description": "failure or prerequisite",
+        "cosine": 0.6855911822796874,
+        "max_act": 6.7812
+      },
+      {
+        "index": 7924,
+        "description": "not working or failing",
+        "cosine": 0.6706838594973379,
+        "max_act": 3.375
+      },
+      {
+        "index": 51933,
+        "description": "problems and failures",
+        "cosine": 0.6706409992206087,
+        "max_act": 1.6172
+      },
+      {
+        "index": 8789,
+        "description": "pass or fail",
+        "cosine": 0.6632653137084721,
+        "max_act": 5.4688
+      }
+    ]
+  },
+  "devotion": {
+    "index": 14764,
+    "candidates": [
+      {
+        "index": 14764,
+        "description": "loyalty and devotion",
+        "cosine": 0.686959475439097,
+        "max_act": 5.5312
+      },
+      {
+        "index": 2172,
+        "description": "sacrifice",
+        "cosine": 0.6550847576305393,
+        "max_act": 2.8125
+      },
+      {
+        "index": 46367,
+        "description": "passion and commitment towards something",
+        "cosine": 0.6378850769384933,
+        "max_act": 4.3438
+      },
+      {
+        "index": 20501,
+        "description": "commitment and dedication",
+        "cosine": 0.6301330198393393,
+        "max_act": 1.1562
+      },
+      {
+        "index": 37440,
+        "description": "dedication and commitment to ideals",
+        "cosine": 0.624471658145326,
+        "max_act": 6.0312
+      },
+      {
+        "index": 49771,
+        "description": "commitment",
+        "cosine": 0.608396503874978,
+        "max_act": 6.0938
+      },
+      {
+        "index": 31911,
+        "description": "submission, servitude, loyal",
+        "cosine": 0.5953803550329472,
+        "max_act": 3.2812
+      },
+      {
+        "index": 1565,
+        "description": "fondness and attachment",
+        "cosine": 0.5823171321453184,
+        "max_act": 4.3125
+      },
+      {
+        "index": 47397,
+        "description": "loyal service and obedience",
+        "cosine": 0.5714010960859319,
+        "max_act": 5.375
+      },
+      {
+        "index": 8071,
+        "description": "dedication and determination",
+        "cosine": 0.5668726413832528,
+        "max_act": 8.75
+      }
+    ]
+  },
+  "olives": {
+    "index": 7300,
+    "candidates": [
+      {
+        "index": 7300,
+        "description": "olive oil",
+        "cosine": 0.7447672054720026,
+        "max_act": 13.4375
+      },
+      {
+        "index": 33441,
+        "description": "olive oil and other oils",
+        "cosine": 0.6710567444636328,
+        "max_act": 8.5
+      },
+      {
+        "index": 9857,
+        "description": "oil or olive oil",
+        "cosine": 0.6623435431244337,
+        "max_act": 9.375
+      },
+      {
+        "index": 8526,
+        "description": "oranges and fruits",
+        "cosine": 0.5788546803551636,
+        "max_act": 3.8281
+      },
+      {
+        "index": 16989,
+        "description": "dried fruits and nuts",
+        "cosine": 0.5609410973670315,
+        "max_act": 5.875
+      },
+      {
+        "index": 28065,
+        "description": "almond, pineapple, bananas",
+        "cosine": 0.5507152467401011,
+        "max_act": 1.7891
+      },
+      {
+        "index": 50179,
+        "description": "apples",
+        "cosine": 0.54813407576419,
+        "max_act": 10.1875
+      },
+      {
+        "index": 15214,
+        "description": "other nuts",
+        "cosine": 0.5403631396709125,
+        "max_act": 9.8125
+      },
+      {
+        "index": 20405,
+        "description": "blueberries",
+        "cosine": 0.5382577587264987,
+        "max_act": 12.1875
+      },
+      {
+        "index": 8763,
+        "description": "salt and pepper",
+        "cosine": 0.5355859612757838,
+        "max_act": 6.0312
+      }
+    ]
+  },
+  "sand": {
+    "index": 41053,
+    "candidates": [
+      {
+        "index": 41053,
+        "description": "beach and sand",
+        "cosine": 0.6855675651786188,
+        "max_act": 7.5312
+      },
+      {
+        "index": 3481,
+        "description": "sand followed by other words",
+        "cosine": 0.6332121845948865,
+        "max_act": 11.125
+      },
+      {
+        "index": 51687,
+        "description": "water",
+        "cosine": 0.5532667839341073,
+        "max_act": 9.9375
+      },
+      {
+        "index": 7572,
+        "description": "water",
+        "cosine": 0.5532667839341073,
+        "max_act": 5.3438
+      },
+      {
+        "index": 13939,
+        "description": "water",
+        "cosine": 0.5532667839341073,
+        "max_act": 3.3594
+      },
+      {
+        "index": 34832,
+        "description": "looks like fierce sand ads",
+        "cosine": 0.5208201482934662,
+        "max_act": 2.3906
+      },
+      {
+        "index": 62257,
+        "description": "filled with flying sands",
+        "cosine": 0.512866185940638,
+        "max_act": 6.5
+      },
+      {
+        "index": 60611,
+        "description": "of",
+        "cosine": 0.5069651194142706,
+        "max_act": 0.8711
+      },
+      {
+        "index": 56741,
+        "description": "black",
+        "cosine": 0.5052855616594427,
+        "max_act": 5.2812
+      },
+      {
+        "index": 13223,
+        "description": "space",
+        "cosine": 0.5039361951571203,
+        "max_act": 4.0312
+      }
+    ]
+  },
+  "Zurich": {
+    "index": 44180,
+    "candidates": [
+      {
+        "index": 44180,
+        "description": "Switzerland",
+        "cosine": 0.6873034357832811,
+        "max_act": 8.9375
+      },
+      {
+        "index": 62274,
+        "description": "Basel and Switzerland",
+        "cosine": 0.6837835060607248,
+        "max_act": 17.625
+      },
+      {
+        "index": 45891,
+        "description": "zollikon, zomato, zyrtec, zoey101, zibo",
+        "cosine": 0.5587060950856798,
+        "max_act": 6.8438
+      },
+      {
+        "index": 16192,
+        "description": "=> Shanghai",
+        "cosine": 0.5578063318438174,
+        "max_act": 0.5273
+      },
+      {
+        "index": 2733,
+        "description": "Hangzhou, China",
+        "cosine": 0.5518146174047179,
+        "max_act": 12.9375
+      },
+      {
+        "index": 2406,
+        "description": "company location",
+        "cosine": 0.5312816627935324,
+        "max_act": 18.875
+      },
+      {
+        "index": 50392,
+        "description": "company location",
+        "cosine": 0.5312816627935324,
+        "max_act": 11.1875
+      },
+      {
+        "index": 63573,
+        "description": "company location",
+        "cosine": 0.5312816627935324,
+        "max_act": 7.9688
+      },
+      {
+        "index": 46158,
+        "description": "cities and locations",
+        "cosine": 0.518498649773062,
+        "max_act": 4.75
+      },
+      {
+        "index": 15265,
+        "description": "company locations",
+        "cosine": 0.5180687717194667,
+        "max_act": 5.5
+      }
+    ]
+  },
+  "friendship": {
+    "index": 37072,
+    "candidates": [
+      {
+        "index": 37072,
+        "description": "friendship and partnership",
+        "cosine": 0.8098156021413392,
+        "max_act": 7.0625
+      },
+      {
+        "index": 32347,
+        "description": "friends since",
+        "cosine": 0.7367741202563463,
+        "max_act": 1.0703
+      },
+      {
+        "index": 3772,
+        "description": "friends and relationships",
+        "cosine": 0.726420392157111,
+        "max_act": 17.125
+      },
+      {
+        "index": 9507,
+        "description": "friends and relationships",
+        "cosine": 0.726420392157111,
+        "max_act": 7.125
+      },
+      {
+        "index": 15046,
+        "description": "friends and relationships",
+        "cosine": 0.726420392157111,
+        "max_act": 3.9844
+      },
+      {
+        "index": 43322,
+        "description": "best friends",
+        "cosine": 0.6768316233179242,
+        "max_act": 7.1875
+      },
+      {
+        "index": 46580,
+        "description": "friendship and social status",
+        "cosine": 0.6759274757853245,
+        "max_act": 2.4062
+      },
+      {
+        "index": 35922,
+        "description": "kindness and love",
+        "cosine": 0.6541488764145925,
+        "max_act": 5.125
+      },
+      {
+        "index": 51203,
+        "description": "kindness",
+        "cosine": 0.6539920178754574,
+        "max_act": 7.25
+      },
+      {
+        "index": 48655,
+        "description": "forms of friendship",
+        "cosine": 0.6443894951390006,
+        "max_act": 6.4688
+      }
+    ]
+  },
+  "vagueness": {
+    "index": 28713,
+    "candidates": [
+      {
+        "index": 28713,
+        "description": "lacks clarity or specificity",
+        "cosine": 0.7425447425573287,
+        "max_act": 4.2812
+      },
+      {
+        "index": 6633,
+        "description": "vague or broad",
+        "cosine": 0.7158835134911997,
+        "max_act": 6.375
+      },
+      {
+        "index": 28063,
+        "description": "not clear or explicit",
+        "cosine": 0.6425666154857959,
+        "max_act": 4
+      },
+      {
+        "index": 18656,
+        "description": "lack of focus or clarity",
+        "cosine": 0.6007376807855509,
+        "max_act": 2.9688
+      },
+      {
+        "index": 27835,
+        "description": "uncertainty or tentative phrases",
+        "cosine": 0.5796793918569829,
+        "max_act": 2.9375
+      },
+      {
+        "index": 46963,
+        "description": "expressions of uncertainty or inability to determine something with certainty.",
+        "cosine": 0.576698520750844,
+        "max_act": 4.3125
+      },
+      {
+        "index": 11950,
+        "description": "clarification for vague questions",
+        "cosine": 0.5739624415346417,
+        "max_act": 4.6562
+      },
+      {
+        "index": 41232,
+        "description": "phrases indicating non-specificity or variability, often marked by \"or\" and words like \"any,\" \"inconsistent,\" or \"not necessarily.\"",
+        "cosine": 0.5687663957557744,
+        "max_act": 1.5781
+      },
+      {
+        "index": 29479,
+        "description": "not clear or meaningful",
+        "cosine": 0.5657439852145533,
+        "max_act": 9.625
+      },
+      {
+        "index": 63009,
+        "description": "words indicating specificity or particularity, especially in the context of explaining limitations on providing detailed information.",
+        "cosine": 0.5656999188917285,
+        "max_act": 5.875
+      }
+    ]
+  },
+  "courage": {
+    "index": 43380,
+    "candidates": [
+      {
+        "index": 43380,
+        "description": "courage, bravery, hero, valor",
+        "cosine": 0.7645392921078105,
+        "max_act": 4.0625
+      },
+      {
+        "index": 44416,
+        "description": "strength and courage",
+        "cosine": 0.7632303115382115,
+        "max_act": 3.2031
+      },
+      {
+        "index": 42738,
+        "description": "bravery and courage",
+        "cosine": 0.7573924632102371,
+        "max_act": 10.625
+      },
+      {
+        "index": 33226,
+        "description": "manhood and courage",
+        "cosine": 0.656779233346638,
+        "max_act": 1.8594
+      },
+      {
+        "index": 8557,
+        "description": "boldness",
+        "cosine": 0.6439138077354535,
+        "max_act": 11.6875
+      },
+      {
+        "index": 14802,
+        "description": "risk and bravery",
+        "cosine": 0.6135319172590246,
+        "max_act": 2.875
+      },
+      {
+        "index": 20343,
+        "description": "brave and willing to take risks",
+        "cosine": 0.5863391622009125,
+        "max_act": 2.6875
+      },
+      {
+        "index": 48082,
+        "description": "brave stories",
+        "cosine": 0.5785171455106862,
+        "max_act": 3.4531
+      },
+      {
+        "index": 49747,
+        "description": "expressions of strength and heart",
+        "cosine": 0.5654756726885792,
+        "max_act": 15.125
+      },
+      {
+        "index": 39473,
+        "description": "self-confidence",
+        "cosine": 0.5654799299413271,
+        "max_act": 4.7812
+      }
+    ]
+  },
+  "patience": {
+    "index": 682,
+    "candidates": [
+      {
+        "index": 682,
+        "description": "patience",
+        "cosine": 0.9999992664876314,
+        "max_act": 2.4219
+      },
+      {
+        "index": 26424,
+        "description": "patient patience patent",
+        "cosine": 0.7547697606656687,
+        "max_act": 8.4375
+      },
+      {
+        "index": 63651,
+        "description": "patient demeanor or patience",
+        "cosine": 0.6112028282397654,
+        "max_act": 4.2812
+      },
+      {
+        "index": 63630,
+        "description": "waiting for something",
+        "cosine": 0.5821684656320374,
+        "max_act": 6.3438
+      },
+      {
+        "index": 41045,
+        "description": "wait 4",
+        "cosine": 0.5445828725103508,
+        "max_act": 1.1719
+      },
+      {
+        "index": 43966,
+        "description": "waits for",
+        "cosine": 0.5324943904476231,
+        "max_act": 3.8906
+      },
+      {
+        "index": 12742,
+        "description": "wait or here",
+        "cosine": 0.5220041973256431,
+        "max_act": 5.375
+      },
+      {
+        "index": 51203,
+        "description": "kindness",
+        "cosine": 0.5126965765525747,
+        "max_act": 7.25
+      },
+      {
+        "index": 25954,
+        "description": "wait for a moment",
+        "cosine": 0.5077164890569614,
+        "max_act": 4.9688
+      },
+      {
+        "index": 34787,
+        "description": "feelings of waiting",
+        "cosine": 0.5049751638481312,
+        "max_act": 6.0312
+      }
+    ]
+  }
+}

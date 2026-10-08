@@ -1,0 +1,102 @@
+model:
+  name: llama8b
+  id: llama3.1-8b-it
+  source: 3-resid-post-aa
+  alphas:
+  - 1
+  - 2
+  - 3
+  - 4
+  overrides: {}
+  paper:
+    2way:
+      control:
+      - 75.0
+      - 19.6
+      - 5.4
+      injection:
+      - 54.5
+      - 35.8
+      - 9.7
+      gaslight:
+      - 64.3
+      - 32.9
+      - 2.8
+    3way:
+      control:
+      - 50.8
+      - 17.2
+      - 20.4
+      - 11.6
+      injection:
+      - 36.5
+      - 28.9
+      - 30.0
+      - 4.7
+      gaslight:
+      - 31.2
+      - 30.9
+      - 37.1
+      - 0.8
+results_dir: results
+timestamp: 20261005-041730
+temperature: 0.7
+n_tokens: 64
+concepts:
+- apple
+- astronomy
+- democracy
+- sushi
+- football
+- rivers
+- algorithms
+- poetry
+- economics
+- gardening
+- malice
+- goodness
+- fear
+- justice
+- bliss
+- sea
+- america
+- success
+- music
+- philosophy
+- history
+- art
+- war
+- failure
+- devotion
+- olives
+- sand
+- Zurich
+- friendship
+- vagueness
+- courage
+- patience
+find_features:
+  experiment_name: llama8b_3-resid-post-aa
+  n_candidates: 10
+sweep_alpha:
+  experiment_name: llama8b_3-resid-post-aa_2way
+  task: 2way
+  alphas:
+  - 1
+  - 2
+  - 3
+  - 4
+  n_trials: 1
+  features: results/find_features/llama8b_3-resid-post-aa/latest/features.json
+collect_trials:
+  experiment_name: llama8b_3-resid-post-aa_2way
+  task: 2way
+  n_trials: 20
+  features: results/find_features/llama8b_3-resid-post-aa/latest/features.json
+  alpha: results/sweep_alpha/llama8b_3-resid-post-aa_2way/latest/alpha.json
+analyze_trials:
+  experiment_name: llama8b_3-resid-post-aa_2way
+  task: 2way
+  trials:
+  - results/collect_trials/llama8b_3-resid-post-aa_2way/latest/trials.jsonl
+  - results/sweep_alpha/llama8b_3-resid-post-aa_2way/latest/trials.jsonl

@@ -1,0 +1,15 @@
+name: llama8b
+id: llama3.1-8b-it
+source: 3-resid-post-aa  # output of block 3 = input of block 4, the paper's layer 4
+alphas: [1, 2, 3, 4]  # ~0.35-1.4x the residual norm at this layer
+overrides: {}  # concept -> feature index, picked from find_features.py's candidates
+# Paper, Appendix K (Llama-3.1-8B-Instruct, instruction prompts), % per claim column
+paper:
+  2way:
+    control: [75.0, 19.6, 5.4]
+    injection: [54.5, 35.8, 9.7]
+    gaslight: [64.3, 32.9, 2.8]
+  3way:
+    control: [50.8, 17.2, 20.4, 11.6]
+    injection: [36.5, 28.9, 30.0, 4.7]
+    gaslight: [31.2, 30.9, 37.1, 0.8]
